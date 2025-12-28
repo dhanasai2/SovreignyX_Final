@@ -354,9 +354,7 @@ flutter run --release
 
 #### 🛠️ Manual Configuration Protocols
 
-<details>
-<summary><b>📱 NODE: SCION (Student App)</b> - Click to Expand</summary>
-<br/>
+##### 📱 NODE: SCION (Student App)
 
 Open `Scion/lib/utils/constants.dart` and locate the `AppConstants` class.
 
@@ -375,11 +373,9 @@ static const String groqApiKey = 'gsk_8hT...'; // Paste actual key
 
 Also verify `Scion/lib/services/daily_task_service.dart`.
 
-</details>
-
-<details>
-<summary><b>🏰 NODE: SOVEREIGN (Company App)</b> - Click to Expand</summary>
 <br/>
+
+##### 🏰 NODE: SOVEREIGN (Company App)
 
 Configure the following services to enable company intelligence:
 
@@ -387,11 +383,9 @@ Configure the following services to enable company intelligence:
 2.  **Recruitment Logic**: `Sovereign/lib/services/ai_recruitment_service.dart` (Line 6)
 3.  **Company Core**: `Sovereign/lib/services/company_service.dart` (Line 136)
 
-</details>
-
-<details>
-<summary><b>🐍 CORE: BACKEND (Django Orchestrator)</b> - Click to Expand</summary>
 <br/>
+
+##### 🐍 CORE: BACKEND (Django Orchestrator)
 
 The backend engine requires direct key injection in Python files.
 *Locate and update `GROQ_API_KEY` in:*
@@ -407,8 +401,6 @@ GROQ_API_KEY = 'YOUR_GROQ_API_KEY'
 # ✅ AFTER
 GROQ_API_KEY = 'gsk_abc123xyz...'
 ```
-
-</details>
 
 ---
 
