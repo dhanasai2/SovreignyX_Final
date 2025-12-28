@@ -334,18 +334,68 @@ flutter pub get
 flutter run --release
 ```
 
-### 🔑 Configuration Keys
-Create a `.env` file in the root of both `Scion` and `Sovereign` to link the nodes.
+### 🔑 API Key Configuration
 
-```properties
-# Infrastructure
-SUPABASE_URL=YOUR_SUPABASE_PROJECT_URL
-SUPABASE_ANON_KEY=YOUR_SUPABASE_ANON_KEY
+⚠️ **IMPORTANT: API Key Setup Required**
 
-# Intelligence Layer (Get keys from Groq/Perplexity dashboards)
-GROQ_API_KEY=gsk_...
-PERPLEXITY_API_KEY=pplx_...
-```
+The application uses AI services (Groq/xAI) that require API keys. For security reasons, these keys are NOT included in the repository and must be configured before running the application.
+
+#### Step 1: Obtain Your API Keys
+
+1. **Groq API Key**: 
+   - Visit [https://console.groq.com](https://console.groq.com)
+   - Sign up or log in
+   - Navigate to API Keys section
+   - Generate a new API key (format: `gsk_...`)
+
+2. **xAI API Key** (Optional):
+   - Visit [https://x.ai](https://x.ai)
+   - Follow their API access process
+   - Generate your API key (format: `xai-...`)
+
+#### Step 2: Configure API Keys in Source Files
+
+You need to replace the placeholder text `'YOUR_GROQ_API_KEY'` and `'YOUR_XAI_API_KEY'` with your actual API keys in the following files:
+
+**📱 Scion Application (Student App):**
+Scion/lib/utils/constants.dart → Lines 8, 10
+Scion/lib/services/daily_task_service.dart → Line 9
+
+text
+
+**🏰 Sovereign Application (Company App):**
+Sovereign/lib/services/ai_course_service.dart → Line 5
+Sovereign/lib/services/ai_recruitment_service.dart → Line 6
+Sovereign/lib/services/company_service.dart → Line 136
+
+text
+
+**🐍 Backend Services (Django):**
+code_executor_service/code_executor/settings.py → Line 166
+code_executor_service/execution/backend_generator_views.py → Line 156
+code_executor_service/execution/prompt_generator_views.py → Lines 22, 48, 66, 225, 486, 666
+code_executor_service/execution/views.py → Line 280
+code_executor_service/execution/web_generator_views.py → Line 137
+
+text
+
+**Example of what to change:**
+
+// ❌ BEFORE (Won't work)
+const String groqApiKey = 'YOUR_GROQ_API_KEY';
+const String xaiApiKey = 'YOUR_XAI_API_KEY';
+
+// ✅ AFTER (Replace with your actual keys)
+const String groqApiKey = 'gsk_abc123xyz...';
+const String xaiApiKey = 'xai-def456uvw...';
+
+text
+undefined
+❌ BEFORE (Won't work)
+GROQ_API_KEY = 'YOUR_GROQ_API_KEY'
+
+✅ AFTER (Replace with your actual key)
+GROQ_API_KEY = 'gsk_abc123xyz...'
 
 ---
 
