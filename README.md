@@ -334,68 +334,81 @@ flutter pub get
 flutter run --release
 ```
 
-### 🔑 API Key Configuration
+### 🔑 Intelligence Access Protocol
 
-⚠️ **IMPORTANT: API Key Setup Required**
+<div style="border: 2px solid #ff4b4b; border-radius: 10px; background: rgba(50, 0, 0, 0.3); padding: 20px;">
+  <h4 style="color: #ff4b4b; margin-top: 0;">⚠️ RESTRICTED AREA: API KEY CONFIGURATION REQUIRED</h4>
+  <p>The neural networks powering SovreignyX (AI Services) require valid authentication tokens. For security, these keys are <b>not</b> included in the repository.</p>
+</div>
 
-The application uses AI services (Groq/xAI) that require API keys. For security reasons, these keys are NOT included in the repository and must be configured before running the application.
+<br/>
 
-#### Step 1: Obtain Your API Keys
+#### 📋 Authorization Status
 
-1. **Groq API Key**: 
-   - Visit [https://console.groq.com](https://console.groq.com)
-   - Sign up or log in
-   - Navigate to API Keys section
-   - Generate a new API key (format: `gsk_...`)
+| Service Node | Provider | Purpose | Action Required |
+| :--- | :--- | :--- | :--- |
+| **Llama-3 Engine** | [Groq Console](https://console.groq.com) | Curriculum Synthesis & Chat | **MANDATORY** |
+| **Grok Agent** | [xAI Platform](https://x.ai) | Advanced Reasoning (Optional) | *OPTIONAL* |
 
-2. **xAI API Key** (Optional):
-   - Visit [https://x.ai](https://x.ai)
-   - Follow their API access process
-   - Generate your API key (format: `xai-...`)
+<br/>
 
-#### Step 2: Configure API Keys in Source Files
+#### 🛠️ Manual Configuration Protocols
 
-You need to replace the placeholder text `'YOUR_GROQ_API_KEY'` and `'YOUR_XAI_API_KEY'` with your actual API keys in the following files:
+<details>
+<summary><b>📱 NODE: SCION (Student App)</b> - Click to Expand</summary>
+<br/>
 
-**📱 Scion Application (Student App):**
-Scion/lib/utils/constants.dart → Lines 8, 10
-Scion/lib/services/daily_task_service.dart → Line 9
+Open `Scion/lib/utils/constants.dart` and locate the `AppConstants` class.
 
-text
+| Line | Protocol |
+| :--- | :--- |
+| `8` | Replace `YOUR_GROQ_API_KEY` |
+| `10` | Replace `YOUR_XAI_API_KEY` |
 
-**🏰 Sovereign Application (Company App):**
-Sovereign/lib/services/ai_course_service.dart → Line 5
-Sovereign/lib/services/ai_recruitment_service.dart → Line 6
-Sovereign/lib/services/company_service.dart → Line 136
+```dart
+// ❌ BEFORE (System Offline)
+static const String groqApiKey = 'YOUR_GROQ_API_KEY';
 
-text
+// ✅ AFTER (System Online)
+static const String groqApiKey = 'gsk_8hT...'; // Paste actual key
+```
 
-**🐍 Backend Services (Django):**
-code_executor_service/code_executor/settings.py → Line 166
-code_executor_service/execution/backend_generator_views.py → Line 156
-code_executor_service/execution/prompt_generator_views.py → Lines 22, 48, 66, 225, 486, 666
-code_executor_service/execution/views.py → Line 280
-code_executor_service/execution/web_generator_views.py → Line 137
+Also verify `Scion/lib/services/daily_task_service.dart`.
 
-text
+</details>
 
-**Example of what to change:**
+<details>
+<summary><b>🏰 NODE: SOVEREIGN (Company App)</b> - Click to Expand</summary>
+<br/>
 
-// ❌ BEFORE (Won't work)
-const String groqApiKey = 'YOUR_GROQ_API_KEY';
-const String xaiApiKey = 'YOUR_XAI_API_KEY';
+Configure the following services to enable company intelligence:
 
-// ✅ AFTER (Replace with your actual keys)
-const String groqApiKey = 'gsk_abc123xyz...';
-const String xaiApiKey = 'xai-def456uvw...';
+1.  **AI Course Service**: `Sovereign/lib/services/ai_course_service.dart` (Line 5)
+2.  **Recruitment Logic**: `Sovereign/lib/services/ai_recruitment_service.dart` (Line 6)
+3.  **Company Core**: `Sovereign/lib/services/company_service.dart` (Line 136)
 
-text
-undefined
-❌ BEFORE (Won't work)
+</details>
+
+<details>
+<summary><b>🐍 CORE: BACKEND (Django Orchestrator)</b> - Click to Expand</summary>
+<br/>
+
+The backend engine requires direct key injection in Python files.
+*Locate and update `GROQ_API_KEY` in:*
+
+*   `code_executor_service/code_executor/settings.py` (Line 166)
+*   `code_executor_service/execution/prompt_generator_views.py` (Line 22+)
+*   `code_executor_service/execution/web_generator_views.py` (Line 137)
+
+```python
+# ❌ BEFORE
 GROQ_API_KEY = 'YOUR_GROQ_API_KEY'
 
-✅ AFTER (Replace with your actual key)
+# ✅ AFTER
 GROQ_API_KEY = 'gsk_abc123xyz...'
+```
+
+</details>
 
 ---
 
