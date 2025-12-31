@@ -419,8 +419,8 @@ GROQ_API_KEY = 'gsk_abc123xyz...'
 <!-- Horizontal PNG Gallery -->
 <div style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
     <h3>Scion Dashboard</h3>
-  <img src="./dashboard_architecture_professional.png" height="1000" width="300" alt="dashboard architecture professional" />
+  <img src="./dashboard_architecture_professional.png" height="1000" width="600" alt="dashboard architecture professional" />
     
-  <img src="course_detail_architecture_professional.png" height="1000" width="300" alt="scion snapshot" />
+  <img src="course_detail_architecture_professional.png" height="1000" width="600" alt="scion snapshot" />
   <img src="./Sovereign/assets/snapshot_company.png" height="200" alt="sovereign snapshot company" />
 </div>
