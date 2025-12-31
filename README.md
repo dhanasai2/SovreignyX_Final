@@ -406,16 +406,9 @@ GROQ_API_KEY = 'gsk_abc123xyz...'
 
 ---
 
-<div align="center">
-<br />
-
-**Architected by SovreignyX Systems**  
-*Est. 2025 | Open Source Protocol*
-
-[🐛 Report Issue](issues) · [💡 Request Feature](pulls)
 
 </div>
-<h2>Scion App</h2>
+<u><h2>Scion App Workflow</h2></u>
 <table>
   <tr>
     <td align="center">
@@ -454,5 +447,46 @@ GROQ_API_KEY = 'gsk_abc123xyz...'
     </td>
   </tr>
 </table>
+<table>
+   <u> <h2>Sovereign App Workflow</h2></u>
+  <tr>
+    <td align="center">
+      <h3>Company Dashboard Architecture</h3>
+      <img src="company_dashboard_architecture_technical.png" width="500" />
+    </td>
+    <td align="center">
+      <h3>Candidates Screen Architecture</h3>
+      <img src="candidates_screen_architecture_technical.png" width="500" />
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <h3>Application Review Architecture</h3>
+      <img src="applicant_review_architecture_technical.png" width="500" />
+    </td>
+    <td align="center">
+      <h3>Company Contests Architecture</h3>
+      <img src="company_contests_architecture_technical.png" width="500" />
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <h3>Proctor Screen Architecture</h3>
+      <img src="proctor_screen_architecture_technical.png" width="500" />
+    </td>
+    <td align="center">
+      <h3>Project Management Architecture </h3>
+      <img src="project_management_architecture_technical.png" width="500" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+<br />
+
+**Architected by SovreignyX Systems**  
+*Est. 2025 | Open Source Protocol*
+
+[🐛 Report Issue](issues) · [💡 Request Feature](pulls)
 
 
