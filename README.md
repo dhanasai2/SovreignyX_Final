@@ -420,7 +420,7 @@ GROQ_API_KEY = 'gsk_abc123xyz...'
 <div style="display: flex; justify-content: Left; gap: 25px; flex-wrap: wrap;">
     <h3>Scion Dashboard</h3>
   <img src="./dashboard_architecture_professional.png" height="1000" width="500" alt="dashboard architecture professional" />
-    
+     <h3>Course Detail Screen</h3>
   <img src="course_detail_architecture_professional.png" height="1000" width="500" alt="scion snapshot" />
   <img src="./Sovereign/assets/snapshot_company.png" height="200" alt="sovereign snapshot company" />
 </div>
