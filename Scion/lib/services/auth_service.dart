@@ -18,9 +18,9 @@ class AuthService {
   // Initialize Supabase - Should be called in main.dart
   static Future<void> initialize() async {
     await Supabase.initialize(
-      url: 'https://rygssvwlqwnzkarmihvd.supabase.co',
+      url: 'YOUR_SUPABASE_URL',
       anonKey:
-          'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJ5Z3NzdndscXduemthcm1paHZkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjUzNjAxNzIsImV4cCI6MjA4MDkzNjE3Mn0.XiXbLY8pldr_fMe0YLZ6Fq7syLyQP1LO-NWv2wfAeUA',
+          'YOUR_ANON_KEY',
     );
   }
 
