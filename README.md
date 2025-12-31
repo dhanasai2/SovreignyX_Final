@@ -427,6 +427,16 @@ GROQ_API_KEY = 'gsk_abc123xyz...'
       <img src="course_detail_architecture_professional.png" width="500" />
     </td>
   </tr>
+    <tr>
+    <td align="center">
+      <h3>Scion Dashboard</h3>
+      <img src="./dashboard_architecture_professional.png" width="500" />
+    </td>
+    <td align="center">
+      <h3>Course Detail Screen</h3>
+      <img src="course_detail_architecture_professional.png" width="500" />
+    </td>
+  </tr>
 </table>
 
 
