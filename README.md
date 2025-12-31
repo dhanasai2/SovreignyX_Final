@@ -73,6 +73,14 @@
 ---
 ---
 <h1>Youtube Demo Url: https://youtu.be/R-aX6DdpwdA</h1>
+
+### 🔐 Quick-Access Test Credentials
+Use these pre-configured accounts to instantly access the full feature set without onboarding.
+
+| Application | Role | Email | Password |
+| :--- | :--- | :--- | :--- |
+| **⚔️ Scion** | Student | `edooo51492209@gmail.com` | `123456` |
+| **🏰 Sovereign** | Company | `dammuvinay143@gmail.com` | `123456` |
 <div id="paradigm"></div>
 
 ## 🔮 The Paradigm Shift: Why SovreignyX?
@@ -278,13 +286,6 @@ SovreignyX/
 
 **Follow these steps exactly to run the application on your local machine and mobile devices.**
 
-### 🔐 Quick-Access Test Credentials
-Use these pre-configured accounts to instantly access the full feature set without onboarding.
-
-| Application | Role | Email | Password |
-| :--- | :--- | :--- | :--- |
-| **⚔️ Scion** | Student | `dammuvinay143@gmail.com` | `123456` |
-| **🏰 Sovereign** | Company | `edooo51492209@gmail.com` | `123456` |
 
 
 ### 📋 Prerequisites
