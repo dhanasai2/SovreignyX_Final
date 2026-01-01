@@ -571,7 +571,7 @@ sequenceDiagram
     HQ->>HQ: Calculate Integrity Score
 ```
 
-</div>
+
 
 <table>
 <tr>
@@ -647,7 +647,7 @@ sequenceDiagram
 </table>
 
 ### 📊 Analytics & Insights
-
+</div>
 <div align="center">
 
 <table>
