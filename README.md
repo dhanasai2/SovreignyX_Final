@@ -391,7 +391,7 @@ Download the APK for the best experience!
 
 <br/>
 
-</div>
+
 
 ### 🧠 AI-Powered Learning Engine
 
@@ -472,6 +472,7 @@ Output: ✨ Full HTML/CSS/JS code with responsive design
 </table>
 
 ### 🎮 Gamification System
+</div>
 
 <div align="center">
 
