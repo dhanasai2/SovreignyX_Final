@@ -47,7 +47,7 @@
 </div>
 
 <br />
-<a href="https://github.com/dhanasai2/SovreignyX_Final/blob/a2c819c928bf98b126e6b3479b6017222c3d0ed3/app-release.apk" download>Download app</a>
+
 
 <!-- COMMAND DECK (High Contrast) -->
 <h3 style="color: #4facfe;">🔻 MISSION CONTROL 🔻</h3>
@@ -74,6 +74,7 @@
 ---
 ---
 <h2>Youtube Demo Url: https://youtu.be/R-aX6DdpwdA</h2>
+<a href="https://drive.google.com/file/d/1lu76gNEQ0o3YdeuNi7Sjowynvs32_2Rp/view?usp=drive_link"><h3>Download Sovereign App</h3></a>
 <h3>Scion Webapp link: https://scionn.web.app</h3>
 <h3>Sovereign Webapp link: https://sovereignsystem.web.app</h3>
 
