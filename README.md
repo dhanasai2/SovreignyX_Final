@@ -4,36 +4,38 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SovreignyX&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=The+Cognitive+Architecture+for+Professional+Sovereignty;AI-Powered+Learning+%2B+Verified+Talent+Discovery;Where+Skills+Meet+Opportunity" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=The+Cognitive+Architecture+for+Professional+Sovereignty;AI-Powered+Learning+%2B+Verified+Talent+Discovery;Where+Skills+Meet+Opportunity" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- SHIELD BADGES WITH ANIMATION -->
+<!-- SHIELD BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-3.7.2-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Django-4.2-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/AI-Llama--3-FF6B6B?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Supabase-Realtime-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Flutter-3.7.2-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-4.2-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Llama--3-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-Realtime-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square&logo=github-actions" />
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square&logo=opensourceinitiative" />
-  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Contributors-Welcome-orange?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Last%20Update-Jan%202026-ff69b4?style=flat-square&logo=clockify" />
+  <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Contributors-Welcome-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Last%20Update-Jan%202026-ff69b4?style=flat-square" />
 </p>
 
 <!-- QUICK ACCESS BUTTONS -->
 <p align="center">
   <a href="#-live-demo--downloads">
-    <img src="https://img.shields.io/badge/🎬_Watch-Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-Watch%20Demo-FF0000?style=for-the-badge&logo=video&logoColor=white" height="40"/>
   </a>
   <a href="#-lightning-fast-setup">
-    <img src="https://img.shields.io/badge/⚡_Quick-Setup_Guide-4FACFE?style=for-the-badge&logo=rocket&logoColor=white" height="40"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-Quick%20Setup-4FACFE?style=for-the-badge&logo=rocket&logoColor=white" height="40"/>
   </a>
   <a href="#-feature-showcase">
-    <img src="https://img.shields.io/badge/💎_Explore-Features-A0C4FF?style=for-the-badge&logo=sparkles&logoColor=white" height="40"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-Explore%20Features-A0C4FF?style=for-the-badge&logo=star-fill&logoColor=white" height="40"/>
   </a>
 </p>
 
@@ -42,77 +44,23 @@
 
 </div>
 
-<!-- STATS DASHBOARD -->
-<div align="center">
+## 📋 Table of Contents
 
-## 📊 Impact at a Glance
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="50"/><br/>
-<b>3x Faster</b><br/>
-<sub>Learning Velocity</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/shield.png" width="50"/><br/>
-<b>99.7%</b><br/>
-<sub>Cheat Detection</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/fast-forward.png" width="50"/><br/>
-<b>65%</b><br/>
-<sub>Hiring Speed</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/crowd.png" width="50"/><br/>
-<b>100K+</b><br/>
-<sub>User Capacity</sub>
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-<!-- NAVIGATION -->
-<details open>
-<summary><h2>🗺️ Navigation Hub</h2></summary>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🎯 Getting Started
-- [Executive Summary](#-executive-summary)
-- [Live Demo](#-live-demo--downloads)
-- [Quick Setup](#-lightning-fast-setup)
-- [Test Credentials](#-test-credentials)
-
-</td>
-<td width="33%" align="center">
-
-### 💎 Core Features
-- [Feature Showcase](#-feature-showcase)
-- [Scion (Student App)](#️-scion-the-knowledge-forge)
-- [Sovereign (Company)](#-sovereign-strategic-command)
-- [Workflows](#-application-workflows)
-
-</td>
-<td width="33%" align="center">
-
-### 🔧 Technical Deep Dive
-- [Architecture](#-system-architecture)
-- [Tech Stack](#-technology-stack)
-- [API Configuration](#-api-configuration)
-- [Contributing](#-contributing)
-
-</td>
-</tr>
-</table>
-
-</details>
+- [🎯 Executive Summary](#-executive-summary)
+- [📊 Impact Metrics](#-impact-metrics)
+- [🎬 Live Demo \& Downloads](#-live-demo--downloads)
+- [🔐 Test Credentials](#-test-credentials)
+- [✨ Feature Showcase](#-feature-showcase)
+  - [⚔️ Scion (Student Node)](#️-scion-the-knowledge-forge)
+  - [🏰 Sovereign (Company Node)](#-sovereign-strategic-command)
+- [🏗️ System Architecture](#️-system-architecture)
+- [💻 Technology Stack](#-technology-stack)
+- [⚡ Lightning-Fast Setup](#-lightning-fast-setup)
+- [🔑 API Configuration](#-api-configuration)
+- [📱 Application Workflows](#-application-workflows)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [📧 Contact \& Support](#-contact--support)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -121,72 +69,122 @@
 ## 🎯 Executive Summary
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4FACFE&center=true&vCenter=true&width=700&lines=Bridging+Education+%26+Employment+with+AI;Real-Time+Skill+Verification+Ecosystem;From+Zero+to+Hired+in+One+Platform" alt="Typing SVG" />
-</div>
-
-<br/>
 
 **SovreignyX** is a revolutionary dual-node platform that transforms how students acquire skills and how companies discover talent. It eliminates the traditional disconnect between learning management systems and recruitment platforms by creating a **unified cognitive architecture** where education directly translates to verifiable professional credentials.
 
-<br/>
+</div>
 
-### 🔥 The Problem-Solution Matrix
+### 💡 The Problem-Solution Framework
 
 <table>
+<thead>
 <tr>
 <th width="20%">Challenge</th>
 <th width="40%">Traditional Approach</th>
 <th width="40%">SovreignyX Solution</th>
 </tr>
+</thead>
+<tbody>
 <tr>
-<td align="center">🎓<br/><b>Skill Gap</b></td>
+<td><strong>🎓 Skill Gap</strong></td>
 <td>Generic courses that don't match market demands; outdated curriculum</td>
-<td><b>AI-Generated Curricula</b> using Llama-3 that adapt to real-time industry trends</td>
+<td><strong>AI-Generated Curricula</strong> using Llama-3 that adapt to real-time industry trends</td>
 </tr>
 <tr>
-<td align="center">📜<br/><b>Verification</b></td>
+<td><strong>📜 Verification</strong></td>
 <td>Unverifiable resumes and easily forged certificates</td>
-<td><b>Sentinel Proctoring</b> with computer vision + blockchain-inspired integrity system</td>
+<td><strong>Sentinel Proctoring</strong> with computer vision + blockchain-inspired integrity system</td>
 </tr>
 <tr>
-<td align="center">⏱️<br/><b>Hiring Friction</b></td>
+<td><strong>⏱️ Hiring Friction</strong></td>
 <td>Months-long screening with multiple interview rounds</td>
-<td><b>Pre-Verified Talent Pool</b> with instant access to portfolios and assessment scores</td>
+<td><strong>Pre-Verified Talent Pool</strong> with instant access to portfolios and assessment scores</td>
 </tr>
 <tr>
-<td align="center">🏝️<br/><b>Learning Isolation</b></td>
+<td><strong>🏝️ Learning Isolation</strong></td>
 <td>Students study alone with no practical application</td>
-<td><b>Squad-Based Collaboration</b> with real projects and company challenges</td>
+<td><strong>Squad-Based Collaboration</strong> with real projects and company challenges</td>
 </tr>
+</tbody>
 </table>
 
-<br/>
+### 🚀 Unique Value Propositions
 
-### 🚀 What Makes Us Unique
+<table>
+<thead>
+<tr>
+<th width="25%">Feature</th>
+<th width="75%">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>🤖 AI-First Design</strong></td>
+<td>Every curriculum is custom-generated by Llama-3 based on market trends, job postings, and skill demand analytics</td>
+</tr>
+<tr>
+<td><strong>👁️ Sentinel Proctoring</strong></td>
+<td>Computer vision-based anti-cheat system with face detection, focus tracking, and violation logging for remote assessments</td>
+</tr>
+<tr>
+<td><strong>🔗 Bidirectional Pipeline</strong></td>
+<td>Students discover jobs while companies discover talent simultaneously—creating a two-way marketplace</td>
+</tr>
+<tr>
+<td><strong>⚡ Real-Time Sync</strong></td>
+<td>Supabase powers instant updates across all connected clients with WebSocket subscriptions</td>
+</tr>
+<tr>
+<td><strong>🎮 Gamified Learning</strong></td>
+<td>XP systems, streaks, leaderboards, and achievement badges drive 4x higher engagement vs traditional LMS</td>
+</tr>
+</tbody>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 📊 Impact Metrics
 
 <div align="center">
 
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#4facfe','primaryTextColor':'#fff','primaryBorderColor':'#7C0200','lineColor':'#F8B229','secondaryColor':'#006100','tertiaryColor':'#fff'}}}%%
-mindmap
-  root((SovreignyX))
-    AI-First Design
-      Llama-3 Powered
-      Dynamic Curricula
-      Smart Recommendations
-    Integrity System
-      Face Detection
-      Focus Tracking
-      Violation Alerts
-    Bidirectional Pipeline
-      Students Find Jobs
-      Companies Find Talent
-      Real-Time Matching
-    Gamification
-      XP & Streaks
-      Leaderboards
-      Achievements
-```
+<table>
+<thead>
+<tr>
+<th width="25%">Metric</th>
+<th width="25%">Value</th>
+<th width="50%">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><strong>🚀 Learning Velocity</strong></td>
+<td align="center"><h3>3x Faster</h3></td>
+<td>Students complete skill acquisition 3x faster through AI-adaptive curriculum and microlearning</td>
+</tr>
+<tr>
+<td align="center"><strong>🛡️ Integrity Score</strong></td>
+<td align="center"><h3>99.7%</h3></td>
+<td>Cheat detection accuracy via Sentinel proctoring with face recognition and focus tracking</td>
+</tr>
+<tr>
+<td align="center"><strong>⚡ Hiring Efficiency</strong></td>
+<td align="center"><h3>65% Reduction</h3></td>
+<td>Time-to-hire decreased by 65% through pre-verified candidate portfolios and instant assessments</td>
+</tr>
+<tr>
+<td align="center"><strong>🌐 Scale Capacity</strong></td>
+<td align="center"><h3>100K+ Users</h3></td>
+<td>Designed to support concurrent users with horizontal scaling and CDN distribution</td>
+</tr>
+<tr>
+<td align="center"><strong>🏆 Engagement ROI</strong></td>
+<td align="center"><h3>4x Higher</h3></td>
+<td>Gamification drives 4x more daily active usage compared to traditional learning platforms</td>
+</tr>
+</tbody>
+</table>
 
 </div>
 
@@ -196,102 +194,76 @@ mindmap
 
 ## 🎬 Live Demo & Downloads
 
+### 📹 Video Demonstration
+
 <div align="center">
 
-### 🎥 See It In Action
-
 <a href="https://youtu.be/R-aX6DdpwdA" target="_blank">
-  <img src="https://img.shields.io/badge/▶️_Watch_Full-Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=282828" height="50"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/-Watch%20Full%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=video&logoColor=white&labelColor=282828" height="50"/>
 </a>
 
 <br/><br/>
 
-### 📱 Download & Launch
+*Complete walkthrough of both Scion (Student) and Sovereign (Company) applications*
 
 </div>
 
-<table align="center">
+### 📱 Download Applications
+
+<table>
+<thead>
 <tr>
-<th width="25%">Application</th>
-<th width="20%">Platform</th>
-<th width="35%">Access Link</th>
+<th width="20%">Application</th>
+<th width="15%">Platform</th>
+<th width="45%">Access Link</th>
 <th width="20%">Status</th>
 </tr>
+</thead>
+<tbody>
 <tr>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/sword.png" width="24"/><br/>
-<b>Scion</b><br/>
-<sub>(Student)</sub>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/48/000000/android-os.png" width="30"/><br/>
-Android APK
-</td>
+<td align="center"><strong>⚔️ Scion</strong><br/><sub>(Student)</sub></td>
+<td align="center">Android APK</td>
 <td align="center">
 <a href="https://drive.google.com/file/d/1CiOeJhDTuiDiQweBdJ5F3uteOQIcrsF4/view?usp=sharing">
-<img src="https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge&logo=android" height="30"/>
+<img src="https://custom-icon-badges.demolab.com/badge/-Download%20v1.0-brightgreen?style=for-the-badge&logo=download&logoColor=white" height="30"/>
 </a>
 </td>
-<td align="center">✅ <b>Stable</b></td>
+<td align="center">✅ <strong>Stable</strong></td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/sword.png" width="24"/><br/>
-<b>Scion</b><br/>
-<sub>(Student)</sub>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/48/000000/chrome.png" width="30"/><br/>
-Web App
-</td>
+<td align="center"><strong>⚔️ Scion</strong><br/><sub>(Student)</sub></td>
+<td align="center">Web App</td>
 <td align="center">
 <a href="https://scionn.web.app">
-<img src="https://img.shields.io/badge/Launch-App-4FACFE?style=for-the-badge&logo=googlechrome&logoColor=white" height="30"/>
+<img src="https://custom-icon-badges.demolab.com/badge/-Launch%20App-4FACFE?style=for-the-badge&logo=browser&logoColor=white" height="30"/>
 </a>
 </td>
-<td align="center">🌐 <b>Live</b></td>
+<td align="center">🌐 <strong>Live</strong></td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/castle.png" width="24"/><br/>
-<b>Sovereign</b><br/>
-<sub>(Company)</sub>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/48/000000/android-os.png" width="30"/><br/>
-Android APK
-</td>
+<td align="center"><strong>🏰 Sovereign</strong><br/><sub>(Company)</sub></td>
+<td align="center">Android APK</td>
 <td align="center">
 <a href="https://drive.google.com/file/d/1lu76gNEQ0o3YdeuNi7Sjowynvs32_2Rp/view?usp=sharing">
-<img src="https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge&logo=android" height="30"/>
+<img src="https://custom-icon-badges.demolab.com/badge/-Download%20v1.0-brightgreen?style=for-the-badge&logo=download&logoColor=white" height="30"/>
 </a>
 </td>
-<td align="center">✅ <b>Stable</b></td>
+<td align="center">✅ <strong>Stable</strong></td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/castle.png" width="24"/><br/>
-<b>Sovereign</b><br/>
-<sub>(Company)</sub>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/color/48/000000/chrome.png" width="30"/><br/>
-Web App
-</td>
+<td align="center"><strong>🏰 Sovereign</strong><br/><sub>(Company)</sub></td>
+<td align="center">Web App</td>
 <td align="center">
 <a href="https://sovereignsystem.web.app">
-<img src="https://img.shields.io/badge/Launch-App-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" height="30"/>
+<img src="https://custom-icon-badges.demolab.com/badge/-Launch%20App-FF6B6B?style=for-the-badge&logo=browser&logoColor=white" height="30"/>
 </a>
 </td>
-<td align="center">🌐 <b>Live</b></td>
+<td align="center">🌐 <strong>Live</strong></td>
 </tr>
+</tbody>
 </table>
 
-<div align="center">
-
-> 💡 **Pro Tip:** Download the APK for full mobile experience including camera-based proctoring and offline capabilities!
-
-</div>
+> **💡 Recommendation:** Download the APK for the optimal mobile experience with full feature access including camera-based proctoring and offline capabilities.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -299,39 +271,25 @@ Web App
 
 ## 🔐 Test Credentials
 
-<div align="center">
-
-### ⚠️ IMPORTANT NOTICE
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/000000/warning-shield.png" width="60"/>
-<br/><br/>
-<b>Use Demo Credentials Only</b><br/>
-New account creation is disabled for evaluation.<br/>
-Download the APK for the best experience!
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 🎫 Quick Access Accounts
+> **⚠️ IMPORTANT NOTICE**
+> 
+> - Use **only** the demo credentials provided below
+> - New account creation is **disabled** for evaluation purposes
+> - Download the APK for the best user experience
 
 <table>
+<thead>
 <tr>
 <th width="20%">Application</th>
 <th width="15%">Role</th>
 <th width="35%">Email</th>
 <th width="15%">Password</th>
-<th width="15%">Login</th>
+<th width="15%">Quick Login</th>
 </tr>
+</thead>
+<tbody>
 <tr>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/sword.png" width="24"/><br/>
-<b>Scion</b>
-</td>
+<td align="center"><strong>⚔️ Scion</strong></td>
 <td align="center">Student</td>
 <td><code>edooo51492209@gmail.com</code></td>
 <td align="center"><code>123456</code></td>
@@ -342,10 +300,7 @@ Download the APK for the best experience!
 </td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/castle.png" width="24"/><br/>
-<b>Sovereign</b>
-</td>
+<td align="center"><strong>🏰 Sovereign</strong></td>
 <td align="center">Company</td>
 <td><code>dammuvinay143@gmail.com</code></td>
 <td align="center"><code>123456</code></td>
@@ -355,325 +310,351 @@ Download the APK for the best experience!
 </a>
 </td>
 </tr>
+</tbody>
 </table>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 💎 Feature Showcase
+## ✨ Feature Showcase
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7B801&center=true&vCenter=true&width=600&lines=Dual-Node+Architecture;Student+%2B+Company+Ecosystems" alt="Typing SVG" />
+### Dual-Node Architecture: Student + Company Ecosystems
 
 </div>
 
-<br/>
-
-<!-- SCION SECTION -->
-<details open>
-<summary>
-<h2>⚔️ Scion: The Knowledge Forge</h2>
-</summary>
-
-<div align="center">
+### ⚔️ Scion: The Knowledge Forge
 
 > *"Inherit the Code. Architect the Future."*
 
-<br/>
-
 **The student-facing node designed for rapid skill mastery and portfolio building**
 
-<br/>
-
-</div>
-
-### 🧠 AI-Powered Learning Engine
+<details open>
+<summary><h4>🧠 AI-Powered Learning Engine</h4></summary>
 
 <table>
+<thead>
 <tr>
-<td width="50%">
-
-#### 🤖 Neural Chat Assistant
-- Context-aware academic help powered by **Llama-3**
-- Multi-turn conversations with memory
-- Code debugging and explanation
-- Real-time Q&A support
-
-#### 📚 Dynamic Curriculum Generator
-- AI creates complete learning paths
-- Structure: **Courses → Modules → Lessons**
-- Auto-curated YouTube video content
-- Progress tracking and milestones
-
-</td>
-<td width="50%">
-
-#### 🎬 Adaptive Reels
-- Short-form educational videos (15-60s)
-- TikTok-style vertical scrolling
-- Topic-specific micro-learning
-- Swipe for personalized feed
-
-#### 🔍 Smart Recommendations
-- AI analyzes your learning patterns
-- Suggests next courses based on trends
-- Job-aligned skill paths
-- Personalized difficulty scaling
-
+<th width="50%">Feature</th>
+<th width="50%">Capability</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>🤖 Neural Chat Assistant</strong></td>
+<td>
+• Context-aware academic help powered by Llama-3<br/>
+• Multi-turn conversations with memory retention<br/>
+• Code debugging and explanation<br/>
+• Real-time Q&A support with citation links
 </td>
 </tr>
-</table>
-
-### 🛠️ Practical Skill Building
-
-<table>
 <tr>
-<td width="50%">
-
-#### 🌐 Web Page Generator
-```
-Input: "Create a portfolio site for a photographer"
-Output: ✨ Full HTML/CSS/JS code with responsive design
-```
-- Text-to-website in seconds
-- Modern UI templates
-- Instant preview and download
-- One-click deployment
-
-#### 💼 Portfolio Builder
-- Auto-generates showcase pages
-- Pulls data from your profile
-- Live preview with customization
-- Exportable as static site
-
-</td>
-<td width="50%">
-
-#### 💻 Live Code Editor
-- In-app IDE with syntax highlighting
-- Supports Python, Java, JavaScript, C++
-- Instant code execution
-- Share code snippets with peers
-
-#### 👥 Squad Collaboration
-- Form teams of 2-5 members
-- Real-time chat and file sharing
-- Collaborative project boards
-- Peer code reviews
-
+<td><strong>📚 Dynamic Curriculum Generator</strong></td>
+<td>
+• AI creates complete learning paths<br/>
+• Structure: <strong>Courses → Modules → Lessons</strong><br/>
+• Auto-curated YouTube video content<br/>
+• Progress tracking with completion milestones
 </td>
 </tr>
-</table>
-
-### 🎮 Gamification System
-
-<div align="center">
-
-<table>
 <tr>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/trophy.png" width="50"/><br/>
-<b>XP System</b><br/>
-<sub>Earn points for every action</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/fire-element.png" width="50"/><br/>
-<b>Streaks</b><br/>
-<sub>Daily learning consistency</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/leaderboard.png" width="50"/><br/>
-<b>Leaderboards</b><br/>
-<sub>Global & local rankings</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/medal.png" width="50"/><br/>
-<b>Badges</b><br/>
-<sub>Unlock achievements</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/000000/brain.png" width="50"/><br/>
-<b>Daily Tasks</b><br/>
-<sub>Quizzes, code, puzzles</sub>
+<td><strong>🎬 Adaptive Reels</strong></td>
+<td>
+• Short-form educational videos (15-60 seconds)<br/>
+• TikTok-style vertical scrolling interface<br/>
+• Topic-specific micro-learning content<br/>
+• Swipe for personalized content feed
 </td>
 </tr>
+<tr>
+<td><strong>🔍 Smart Recommendations</strong></td>
+<td>
+• AI analyzes learning patterns and preferences<br/>
+• Suggests next courses based on market trends<br/>
+• Job-aligned skill path recommendations<br/>
+• Personalized difficulty scaling
+</td>
+</tr>
+</tbody>
 </table>
-
-</div>
-
-### 💼 Career Launchpad
-
-- **🎯 Job Discovery Board**: Browse verified company postings filtered by skills
-- **⚡ One-Click Apply**: Your portfolio IS your resume—no manual uploads
-- **📧 Email Integration**: Receive interview invites and updates directly
-- **💬 Direct Messaging**: Chat with recruiters without leaving the app
-- **✅ Skills Verification**: Every completed project adds to your credibility score
-
-<div align="center">
-
-**🎯 Access Features:** Click the **three-dot menu (⋮)** in the Scion dashboard
-
-</div>
 
 </details>
 
-<br/>
-
-<!-- SOVEREIGN SECTION -->
 <details open>
-<summary>
-<h2>🏰 Sovereign: Strategic Command Center</h2>
-</summary>
+<summary><h4>🛠️ Practical Skill Building</h4></summary>
 
-<div align="center">
+<table>
+<thead>
+<tr>
+<th width="50%">Feature</th>
+<th width="50%">Capability</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>🌐 Web Page Generator</strong></td>
+<td>
+• Text-to-website in seconds<br/>
+• Modern UI templates (portfolio, landing, blog)<br/>
+• Instant preview and code download<br/>
+• One-click deployment to hosting
+</td>
+</tr>
+<tr>
+<td><strong>💼 Portfolio Builder</strong></td>
+<td>
+• Auto-generates showcase pages from profile<br/>
+• Live preview with customization options<br/>
+• Exportable as static HTML/CSS/JS<br/>
+• Shareable portfolio URLs
+</td>
+</tr>
+<tr>
+<td><strong>💻 Live Code Editor</strong></td>
+<td>
+• In-app IDE with syntax highlighting<br/>
+• Supports Python, Java, JavaScript, C++<br/>
+• Instant code execution with output console<br/>
+• Share code snippets with peers
+</td>
+</tr>
+<tr>
+<td><strong>👥 Squad Collaboration</strong></td>
+<td>
+• Form teams of 2-5 members<br/>
+• Real-time chat and file sharing<br/>
+• Collaborative project boards (Trello-style)<br/>
+• Peer code reviews and feedback
+</td>
+</tr>
+</tbody>
+</table>
+
+</details>
+
+<details open>
+<summary><h4>🎮 Gamification System</h4></summary>
+
+<table>
+<thead>
+<tr>
+<th width="20%">Element</th>
+<th width="80%">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><strong>🏆 XP System</strong></td>
+<td>Earn points for every action: completing lessons (+50 XP), daily tasks (+100 XP), projects (+500 XP), contests (+1000 XP)</td>
+</tr>
+<tr>
+<td align="center"><strong>🔥 Streaks</strong></td>
+<td>Maintain daily learning consistency with streak multipliers (7-day streak = 2x XP bonus)</td>
+</tr>
+<tr>
+<td align="center"><strong>📊 Leaderboards</strong></td>
+<td>Compete globally, regionally, or within your institution; Weekly, monthly, and all-time rankings</td>
+</tr>
+<tr>
+<td align="center"><strong>🎖️ Achievement Badges</strong></td>
+<td>Unlock 50+ badges (First Project, Code Warrior, 100-Day Streak, Top 1%, Team Player)</td>
+</tr>
+<tr>
+<td align="center"><strong>🧠 Daily Neuro-Tasks</strong></td>
+<td>Daily quiz (10 questions), code challenge (1 problem), brain game (word puzzle); Complete all 3 = bonus XP</td>
+</tr>
+</tbody>
+</table>
+
+</details>
+
+<details open>
+<summary><h4>💼 Career Launchpad</h4></summary>
+
+<table>
+<thead>
+<tr>
+<th width="30%">Feature</th>
+<th width="70%">Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>🎯 Job Discovery Board</strong></td>
+<td>Browse verified company postings filtered by skills, location, salary range, and experience level</td>
+</tr>
+<tr>
+<td><strong>⚡ One-Click Application</strong></td>
+<td>Your portfolio IS your resume—no manual uploads; Auto-filled applications with verified credentials</td>
+</tr>
+<tr>
+<td><strong>📧 Email Integration</strong></td>
+<td>Receive interview invites, status updates, and feedback directly in-app and via email</td>
+</tr>
+<tr>
+<td><strong>💬 Direct Messaging</strong></td>
+<td>Chat with recruiters without leaving the platform; Message history and notification system</td>
+</tr>
+<tr>
+<td><strong>✅ Skills Verification</strong></td>
+<td>Every completed project adds to your credibility score; Companies see verified skills, not claimed skills</td>
+</tr>
+</tbody>
+</table>
+
+</details>
+
+**🎯 Access Features:** Click the **three-dot menu (⋮)** in the Scion dashboard to explore all tools.
+
+---
+
+### 🏰 Sovereign: Strategic Command
 
 > *"Define the Standard. Claim the Talent."*
 
-<br/>
-
 **The company-facing node for talent discovery and assessment integrity**
 
-<br/>
-
-</div>
-
-### 👁️ Sentinel Proctoring System
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#ff6b6b','primaryTextColor':'#fff','lineColor':'#ffd93d'}}}%%
-sequenceDiagram
-    participant C as Candidate
-    participant CAM as Camera
-    participant AI as Sentinel AI
-    participant HQ as Company
-
-    HQ->>C: Deploy Assessment
-    C->>CAM: Activate Camera
-
-    loop Every 2 Seconds
-        CAM->>AI: Stream Frame
-        AI->>AI: Face Detection
-        alt No Face
-            AI->>HQ: Log Violation
-            AI->>C: Show Warning
-        end
-    end
-
-    C->>HQ: Submit Test
-    HQ->>HQ: Calculate Integrity Score
-```
-
-</div>
+<details open>
+<summary><h4>👁️ Sentinel Proctoring System</h4></summary>
 
 <table>
+<thead>
 <tr>
-<td width="50%">
-
-#### 🎥 Real-Time Monitoring
-- **Face Detection**: Verify candidate identity
-- **Focus Tracking**: Detect tab-switching
-- **Eye Tracking**: Monitor attention patterns
-- **Audio Analysis**: Detect external help
-
-</td>
-<td width="50%">
-
-#### 📊 Integrity Scoring
-- **Violation Logging**: Timestamped incidents
-- **AI Confidence Scores**: 0-100% trustworthiness
-- **Video Playback**: Review suspicious moments
-- **Automated Reports**: PDF summaries for HR
-
+<th width="50%">Component</th>
+<th width="50%">Functionality</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>🎥 Real-Time Monitoring</strong></td>
+<td>
+• <strong>Face Detection:</strong> Verify candidate identity<br/>
+• <strong>Focus Tracking:</strong> Detect tab-switching and window changes<br/>
+• <strong>Eye Tracking:</strong> Monitor attention patterns (optional)<br/>
+• <strong>Audio Analysis:</strong> Detect external help or suspicious sounds
 </td>
 </tr>
+<tr>
+<td><strong>📊 Integrity Scoring</strong></td>
+<td>
+• <strong>Violation Logging:</strong> Timestamped incident reports<br/>
+• <strong>AI Confidence Scores:</strong> 0-100% trustworthiness rating<br/>
+• <strong>Video Playback:</strong> Review suspicious moments<br/>
+• <strong>Automated Reports:</strong> PDF summaries for HR teams
+</td>
+</tr>
+<tr>
+<td><strong>⚠️ Violation Types</strong></td>
+<td>
+• Face not detected (5+ seconds)<br/>
+• Multiple faces in frame<br/>
+• Tab switching / window focus lost<br/>
+• Screen recording detected<br/>
+• Suspicious eye movements
+</td>
+</tr>
+<tr>
+<td><strong>🔒 Security Features</strong></td>
+<td>
+• Fullscreen lock mode<br/>
+• Copy-paste disabled<br/>
+• Screenshot prevention<br/>
+• Browser extension detection<br/>
+• Encrypted video streams
+</td>
+</tr>
+</tbody>
 </table>
 
-### 🎯 Smart Recruitment Dashboard
+</details>
+
+<details open>
+<summary><h4>🎯 Smart Recruitment Dashboard</h4></summary>
 
 <table>
+<thead>
 <tr>
-<td width="50%">
-
-#### 🔍 Talent Radar
-- Discover top performers by:
-  - **Skill proficiency** (e.g., "Top 5% in Flutter")
-  - **Geographic region**
-  - **Learning velocity**
-  - **Project portfolio quality**
-- Live leaderboards with filters
-- Bookmark promising candidates
-
-</td>
-<td width="50%">
-
-#### 📝 Assessment Builder
-- Create custom skill tests
-- Question bank with 500+ templates
-- Coding challenges with auto-grading
-- Video response questions
-- Set time limits and difficulty levels
-
+<th width="50%">Feature</th>
+<th width="50%">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>🔍 Talent Radar</strong></td>
+<td>
+• Discover top performers by skill proficiency<br/>
+• Filter by: Top 5% in Flutter, React, Python, etc.<br/>
+• Geographic region and availability filters<br/>
+• Learning velocity and project quality metrics<br/>
+• Bookmark promising candidates
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-#### 📈 Applicant Tracking System (ATS)
-- Pipeline stages:
-  - Applied → Screening → Interview → Offer
-- Drag-and-drop candidate management
-- Bulk actions (reject, schedule, email)
-- Collaboration notes for hiring team
-
-</td>
-<td width="50%">
-
-#### 💬 Direct Communication
-- In-app messaging with candidates
-- Email integration (Gmail, Outlook)
-- Interview scheduling with calendar sync
-- Automated status updates
-
+<td><strong>📝 Assessment Builder</strong></td>
+<td>
+• Create custom skill tests (MCQ, coding, video)<br/>
+• Question bank with 500+ pre-built templates<br/>
+• Coding challenges with auto-grading<br/>
+• Set time limits and difficulty levels<br/>
+• AI-generated questions based on job description
 </td>
 </tr>
+<tr>
+<td><strong>📈 Applicant Tracking System</strong></td>
+<td>
+• Pipeline stages: Applied → Screening → Interview → Offer<br/>
+• Drag-and-drop candidate management<br/>
+• Bulk actions (reject, schedule, email 10+ candidates)<br/>
+• Collaboration notes for hiring team<br/>
+• Automated status update emails
+</td>
+</tr>
+<tr>
+<td><strong>💬 Direct Communication</strong></td>
+<td>
+• In-app messaging with candidates<br/>
+• Email integration (Gmail, Outlook, custom SMTP)<br/>
+• Interview scheduling with calendar sync (Google, Outlook)<br/>
+• Automated follow-ups and reminders
+</td>
+</tr>
+</tbody>
 </table>
 
-### 📊 Analytics & Insights
+</details>
 
-<div align="center">
+<details open>
+<summary><h4>📊 Analytics & Insights</h4></summary>
 
 <table>
+<thead>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/bar-chart.png" width="50"/><br/>
-<b>Hiring Funnel</b><br/>
-<sub>Conversion rate analysis</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/user-folder.png" width="50"/><br/>
-<b>Candidate Insights</b><br/>
-<sub>Skill breakdown</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/calendar.png" width="50"/><br/>
-<b>Time-to-Hire</b><br/>
-<sub>Average days per role</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/calculator.png" width="50"/><br/>
-<b>ROI Calculator</b><br/>
-<sub>Cost per hire metrics</sub>
-</td>
+<th width="30%">Metric</th>
+<th width="70%">Details</th>
 </tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>📉 Hiring Funnel</strong></td>
+<td>Conversion rate analysis at each stage; Identify bottlenecks in the process; Compare performance across job postings</td>
+</tr>
+<tr>
+<td><strong>👤 Candidate Insights</strong></td>
+<td>Skill breakdown with proficiency levels; Project portfolio with GitHub integration; Assessment scores and integrity reports; Engagement metrics (response time, activity level)</td>
+</tr>
+<tr>
+<td><strong>⏱️ Time-to-Hire</strong></td>
+<td>Average days per role; Track from job posting to offer acceptance; Compare against industry benchmarks; Identify fastest hiring channels</td>
+</tr>
+<tr>
+<td><strong>💰 ROI Calculator</strong></td>
+<td>Cost per hire metrics; Quality of hire analysis (performance after 90 days); Source effectiveness (job boards vs direct applications); Budget allocation recommendations</td>
+</tr>
+</tbody>
 </table>
-
-</div>
 
 </details>
 
@@ -683,24 +664,16 @@ sequenceDiagram
 
 ## 🏗️ System Architecture
 
-<div align="center">
+### High-Level Design
 
-### 📐 High-Level Design Philosophy
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A0C4FF&center=true&vCenter=true&width=700&lines=Modular+Microservices+Architecture;Real-Time+Event-Driven+Design;AI-First+Cognitive+Layer" alt="Typing SVG" />
-
-</div>
-
-<br/>
-
-```ascii
+```
 ┌────────────────────────────────────────────────────────────────┐
 │                  CLIENT TIER (Flutter 3.7.2)                   │
 │  ┌──────────────────────┐        ┌──────────────────────┐     │
 │  │   ⚔️ SCION NODE      │        │  🏰 SOVEREIGN NODE   │     │
 │  │   (Student App)       │        │   (Company App)       │     │
-│  │  • Material UI        │        │  • Proctoring UI      │     │
-│  │  • State Management   │        │  • ATS Dashboard      │     │
+│  │  • Material Design 3  │        │  • Proctoring UI      │     │
+│  │  • Provider Pattern   │        │  • ATS Dashboard      │     │
 │  │  • Camera Integration │        │  • Analytics Panel    │     │
 │  └──────────┬───────────┘        └───────────┬──────────┘     │
 └─────────────┼───────────────────────────────────┼──────────────┘
@@ -732,14 +705,10 @@ sequenceDiagram
 └─────────────────┘  └─────────────┘  └───────────────────┘
 ```
 
-<br/>
-
-### 🔄 Key Data Flows
+### Key Data Flows
 
 <details>
-<summary><b>📚 1. Dynamic Curriculum Synthesis Pipeline</b></summary>
-
-<br/>
+<summary><h4>📚 Dynamic Curriculum Synthesis Pipeline</h4></summary>
 
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#4facfe','primaryTextColor':'#000','primaryBorderColor':'#4facfe','lineColor':'#4facfe','secondaryColor':'#a0c4ff','tertiaryColor':'#fff'}}}%%
@@ -778,9 +747,7 @@ sequenceDiagram
 </details>
 
 <details>
-<summary><b>👁️ 2. Sentinel Proctoring Protocol</b></summary>
-
-<br/>
+<summary><h4>👁️ Sentinel Proctoring Protocol</h4></summary>
 
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#ff6b6b','primaryTextColor':'#fff','primaryBorderColor':'#ff6b6b','lineColor':'#ffd93d','secondaryColor':'#a0c4ff','tertiaryColor':'#fff'}}}%%
@@ -827,13 +794,11 @@ sequenceDiagram
 </details>
 
 <details>
-<summary><b>💼 3. Job Application Workflow</b></summary>
-
-<br/>
+<summary><h4>💼 Job Application Workflow</h4></summary>
 
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#6bcf7f','primaryTextColor':'#000','primaryBorderColor':'#6bcf7f','lineColor':'#4facfe'}}}%%
-flowchart LR
+flowchart TD
     A[🏢 Company posts job] --> B[📡 Job syncs to Scion]
     B --> C[👤 Student browses jobs]
     C --> D{Matches skills?}
@@ -868,149 +833,120 @@ flowchart LR
 
 ## 💻 Technology Stack
 
-<div align="center">
-
 <table>
-<tr>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/flutter.png" width="60"/><br/>
-<b>Flutter 3.7.2</b><br/>
-<sub>Cross-platform UI</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/django.png" width="60"/><br/>
-<b>Django 4.2</b><br/>
-<sub>Backend API</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="60"/><br/>
-<b>Supabase</b><br/>
-<sub>Real-time DB</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/redis.png" width="60"/><br/>
-<b>Redis</b><br/>
-<sub>Caching</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.worldvectorlogo.com/logos/groq.svg" width="60"/><br/>
-<b>Groq AI</b><br/>
-<sub>Llama-3</sub>
-</td>
-</tr>
-</table>
-
-### Detailed Technology Matrix
-
-</div>
-
-<table>
+<thead>
 <tr>
 <th width="20%">Layer</th>
 <th width="40%">Technologies</th>
 <th width="40%">Purpose</th>
 </tr>
+</thead>
+<tbody>
 <tr>
-<td><b>🎨 Frontend</b></td>
+<td><strong>🎨 Frontend</strong></td>
 <td>
-<code>Flutter 3.7.2</code><br/>
-<code>Provider Pattern</code><br/>
-<code>Dio HTTP Client</code><br/>
-<code>Camera Plugin</code>
+• <code>Flutter 3.7.2</code><br/>
+• <code>Provider Pattern</code><br/>
+• <code>Dio HTTP Client</code><br/>
+• <code>Camera Plugin</code>
 </td>
 <td>
 Cross-platform UI (iOS/Android/Web)<br/>
-State management<br/>
-API communication<br/>
+State management for reactive updates<br/>
+API communication with interceptors<br/>
 Proctoring & media capture
 </td>
 </tr>
 <tr>
-<td><b>⚙️ Backend</b></td>
+<td><strong>⚙️ Backend</strong></td>
 <td>
-<code>Django 4.2</code><br/>
-<code>Django REST Framework</code><br/>
-<code>Celery</code><br/>
-<code>Redis</code>
+• <code>Django 4.2</code><br/>
+• <code>Django REST Framework</code><br/>
+• <code>Celery</code><br/>
+• <code>Redis</code>
 </td>
 <td>
-REST API orchestration<br/>
-Serialization & viewsets<br/>
-Async task queue<br/>
+REST API orchestration layer<br/>
+Serialization & viewset architecture<br/>
+Asynchronous task queue for AI operations<br/>
 Caching & session management
 </td>
 </tr>
 <tr>
-<td><b>🧠 AI Layer</b></td>
+<td><strong>🧠 AI Layer</strong></td>
 <td>
-<code>Groq (Llama-3-70B)</code><br/>
-<code>OpenCV</code><br/>
-<code>TensorFlow Lite</code>
+• <code>Groq (Llama-3-70B)</code><br/>
+• <code>OpenCV</code><br/>
+• <code>TensorFlow Lite</code>
 </td>
 <td>
-Curriculum synthesis & chat<br/>
-Computer vision<br/>
-On-device ML inference
+Curriculum synthesis & conversational AI<br/>
+Computer vision for facial recognition<br/>
+On-device ML inference for proctoring
 </td>
 </tr>
 <tr>
-<td><b>💾 Data</b></td>
+<td><strong>💾 Data</strong></td>
 <td>
-<code>Supabase (PostgreSQL)</code><br/>
-<code>Firebase Hosting</code><br/>
-<code>GitHub Actions</code>
+• <code>Supabase (PostgreSQL)</code><br/>
+• <code>Firebase Hosting</code><br/>
+• <code>GitHub Actions</code>
 </td>
 <td>
-Real-time subscriptions<br/>
-CDN & web hosting<br/>
-CI/CD automation
+Real-time subscriptions with WebSocket<br/>
+CDN & web hosting for PWA<br/>
+CI/CD automation pipeline
 </td>
 </tr>
+</tbody>
 </table>
 
-<br/>
-
-### 🗂️ Project Structure
+### Project Structure
 
 ```bash
 SovreignyX/
 │
-├── 🌑 Scion/                         # Student Application
+├── ⚔️ Scion/                         # Student Application
 │   ├── lib/
 │   │   ├── screens/                  # UI Screens
 │   │   │   ├── dashboard_screen.dart
 │   │   │   ├── course_detail_screen.dart
-│   │   │   └── contest_screen.dart
+│   │   │   ├── contest_screen.dart
+│   │   │   └── job_board_screen.dart
 │   │   ├── services/                 # Business Logic
 │   │   │   ├── auth_service.dart
 │   │   │   ├── ai_service.dart
-│   │   │   └── team_service.dart
+│   │   │   ├── team_service.dart
+│   │   │   └── daily_task_service.dart
 │   │   ├── models/                   # Data Models
 │   │   └── utils/
-│   │       ├── constants.dart        # 🔑 API Keys Here
-│   │       └── config_service.dart   # Backend URL
-│   └── pubspec.yaml
+│   │       ├── constants.dart        # 🔑 API Keys (Line 8, 10)
+│   │       └── config_service.dart   # Backend URL Configuration
+│   └── pubspec.yaml                  # Dependencies
 │
-├── 🌕 Sovereign/                     # Company Application
+├── 🏰 Sovereign/                     # Company Application
 │   ├── lib/
 │   │   ├── screens/
 │   │   │   ├── company_dashboard.dart
 │   │   │   ├── talent_radar_screen.dart
-│   │   │   └── proctor_screen.dart
+│   │   │   ├── proctor_screen.dart
+│   │   │   └── applicant_review_screen.dart
 │   │   ├── services/
-│   │   │   ├── ai_recruitment_service.dart  # 🔑 API Keys
-│   │   │   └── company_service.dart         # 🔑 API Keys
+│   │   │   ├── ai_course_service.dart        # 🔑 API Keys (Line 5)
+│   │   │   ├── ai_recruitment_service.dart   # 🔑 API Keys (Line 6)
+│   │   │   └── company_service.dart          # 🔑 API Keys (Line 136)
 │   │   └── models/
 │   └── pubspec.yaml
 │
-└── 🪐 backend/                       # Python/Django Backend
+└── 🐍 backend/                       # Python/Django Backend
     ├── code_executor_service/
-    │   ├── settings.py               # 🔑 API Keys (Line 166)
+    │   ├── code_executor/
+    │   │   └── settings.py           # 🔑 API Keys (Line 166)
     │   ├── execution/
     │   │   ├── prompt_generator_views.py  # 🔑 API Keys (Line 22)
     │   │   └── web_generator_views.py     # 🔑 API Keys (Line 137)
-    │   └── manage.py
-    └── requirements.txt
+    │   └── manage.py                 # Django Entry Point
+    └── requirements.txt              # Python Dependencies
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -1019,33 +955,38 @@ SovreignyX/
 
 ## ⚡ Lightning-Fast Setup
 
-<div align="center">
+### Prerequisites
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6BCF7F&center=true&vCenter=true&width=600&lines=Get+Started+in+3+Simple+Steps;Backend+→+Config+→+Launch!" alt="Typing SVG" />
+<table>
+<thead>
+<tr>
+<th width="30%">Requirement</th>
+<th width="70%">Verification Command</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Flutter SDK 3.7.2+</strong></td>
+<td><code>flutter doctor</code></td>
+</tr>
+<tr>
+<td><strong>Python 3.8+</strong></td>
+<td><code>python --version</code></td>
+</tr>
+<tr>
+<td><strong>Android Studio / VS Code</strong></td>
+<td>For development environment</td>
+</tr>
+<tr>
+<td><strong>Android Emulator OR Physical Device</strong></td>
+<td><code>flutter devices</code></td>
+</tr>
+</tbody>
+</table>
 
-</div>
+### Step 1: Backend Initialization
 
-<br/>
-
-### 📋 Prerequisites
-
-```bash
-✅ Flutter SDK 3.7.2+          → Run: flutter doctor
-✅ Python 3.8+                 → Run: python --version
-✅ Android Studio / VS Code    → For development
-✅ Android Emulator OR         → For testing
-   Physical Device (USB Debug enabled)
-```
-
-<br/>
-
-### 🔷 Step 1: Backend Initialization
-
-<div align="center">
-
-**⚠️ The backend MUST run first to power AI features**
-
-</div>
+> ⚠️ **The backend MUST run first to power AI features**
 
 ```bash
 # Navigate to backend directory
@@ -1063,61 +1004,64 @@ python manage.py runserver 0.0.0.0:8000
 
 > 💡 **Keep this terminal window open!** The backend must run continuously.
 
-<br/>
-
-### 🔷 Step 2: Mobile Configuration
+### Step 2: Mobile Configuration
 
 <details>
-<summary><b>Option A: Android Emulator (Easiest)</b></summary>
+<summary><strong>Option A: Android Emulator (Easiest)</strong></summary>
 
 <br/>
 
-✅ **No changes needed!** The app uses `10.0.2.2:8000` by default (emulator's localhost).
+✅ **No changes needed!** The app uses `10.0.2.2:8000` by default (emulator's localhost mapping).
 
 </details>
 
 <details>
-<summary><b>Option B: Physical Device (Real Phone Testing)</b></summary>
+<summary><strong>Option B: Physical Device (Real Phone Testing)</strong></summary>
 
 <br/>
 
-1. **Find your computer's IP address:**
-   ```bash
-   # Windows
-   ipconfig
-   # Look for "IPv4 Address" (e.g., 192.168.1.100)
+**1. Find your computer's IP address:**
 
-   # Mac/Linux
-   ifconfig
-   # Look for "inet" under active network (e.g., 192.168.1.100)
-   ```
+```bash
+# Windows
+ipconfig
+# Look for "IPv4 Address" (e.g., 192.168.1.100)
 
-2. **Update backend URL in apps:**
+# Mac/Linux
+ifconfig
+# Look for "inet" under active network (e.g., 192.168.1.100)
+```
 
-   **Scion:** `Scion/lib/utils/config_service.dart`
-   ```dart
-   // Change this line:
-   static const String baseUrl = 'http://10.0.2.2:8000';
+**2. Update backend URL in both apps:**
 
-   // To your computer's IP:
-   static const String baseUrl = 'http://192.168.1.100:8000';
-   ```
+**Scion:** `Scion/lib/utils/config_service.dart`
 
-   **Sovereign:** `Sovereign/lib/utils/config_service.dart` (same change)
+```dart
+// Change this line:
+static const String baseUrl = 'http://10.0.2.2:8000';
 
-3. **Ensure phone and PC are on the same WiFi network**
+// To your computer's IP:
+static const String baseUrl = 'http://192.168.1.100:8000';
+```
+
+**Sovereign:** `Sovereign/lib/utils/config_service.dart` (apply same change)
+
+**3. Ensure phone and PC are on the same WiFi network**
 
 </details>
 
-<br/>
-
-### 🔷 Step 3: Launch Applications
+### Step 3: Launch Applications
 
 <table>
+<thead>
 <tr>
-<td width="50%">
-
-#### ⚔️ Launch Scion (Student App)
+<th width="50%">⚔️ Scion (Student App)</th>
+<th width="50%">🏰 Sovereign (Company App)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
 
 ```bash
 cd Scion
@@ -1129,14 +1073,12 @@ flutter pub get
 flutter run --release
 
 # OR specify device
-flutter devices  # List devices
+flutter devices
 flutter run -d <device-id>
 ```
 
 </td>
-<td width="50%">
-
-#### 🏰 Launch Sovereign (Company App)
+<td>
 
 ```bash
 cd Sovereign
@@ -1154,11 +1096,10 @@ flutter run -d <device-id>
 
 </td>
 </tr>
+</tbody>
 </table>
 
-<br/>
-
-### ✅ Success Checklist
+### Success Checklist
 
 - [ ] Backend running at `http://0.0.0.0:8000` (terminal shows no errors)
 - [ ] Scion app launches and shows login screen
@@ -1167,17 +1108,40 @@ flutter run -d <device-id>
 - [ ] Dashboard loads without errors
 
 <details>
-<summary><b>🐛 Troubleshooting Common Issues</b></summary>
+<summary><strong>🐛 Troubleshooting Common Issues</strong></summary>
 
 <br/>
 
-| Problem | Solution |
-|---------|----------|
-| `Connection refused` error | Check backend URL in `config_service.dart` matches your IP |
-| `No devices found` | Run `flutter doctor` and ensure emulator/USB debugging is enabled |
-| `API key missing` | See [API Configuration](#-api-configuration) section |
-| Backend crashes | Check `pip install` completed successfully; try `pip install --upgrade -r requirements.txt` |
-| Slow loading | Use `--release` mode instead of debug mode |
+<table>
+<thead>
+<tr>
+<th width="40%">Problem</th>
+<th width="60%">Solution</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>Connection refused</code> error</td>
+<td>Check backend URL in <code>config_service.dart</code> matches your IP address</td>
+</tr>
+<tr>
+<td><code>No devices found</code></td>
+<td>Run <code>flutter doctor</code> and ensure emulator/USB debugging is enabled</td>
+</tr>
+<tr>
+<td>API key missing errors</td>
+<td>See <a href="#-api-configuration">API Configuration</a> section below</td>
+</tr>
+<tr>
+<td>Backend crashes</td>
+<td>Check <code>pip install</code> completed successfully; try <code>pip install --upgrade -r requirements.txt</code></td>
+</tr>
+<tr>
+<td>Slow loading</td>
+<td>Use <code>--release</code> mode instead of debug mode for better performance</td>
+</tr>
+</tbody>
+</table>
 
 </details>
 
@@ -1187,53 +1151,41 @@ flutter run -d <device-id>
 
 ## 🔑 API Configuration
 
-<div align="center">
+> **⚠️ CRITICAL: API Keys Required**
+> 
+> For security, API keys are **NOT** included in the repository. You must obtain and configure them manually.
+
+### Required Services
 
 <table>
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/fluency/96/000000/lock.png" width="60"/>
-<br/><br/>
-<h3>⚠️ CRITICAL: API Keys Required</h3>
-For security, API keys are <b>NOT</b> included in the repository.<br/>
-You must obtain and configure them manually.
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-### 📋 Required Services
-
-<table>
+<thead>
 <tr>
 <th width="25%">Service</th>
 <th width="25%">Provider</th>
 <th width="30%">Purpose</th>
 <th width="20%">Priority</th>
 </tr>
+</thead>
+<tbody>
 <tr>
-<td><b>Groq API</b></td>
+<td><strong>Groq API</strong></td>
 <td><a href="https://console.groq.com">console.groq.com</a></td>
 <td>Curriculum generation, AI chat, code analysis</td>
-<td><span style="color:red">🔴 MANDATORY</span></td>
+<td>🔴 <strong>MANDATORY</strong></td>
 </tr>
 <tr>
-<td><b>xAI (Grok)</b></td>
+<td><strong>xAI (Grok)</strong></td>
 <td><a href="https://x.ai">x.ai</a></td>
 <td>Advanced reasoning (optional enhancement)</td>
-<td><span style="color:orange">🟡 OPTIONAL</span></td>
+<td>🟡 <strong>OPTIONAL</strong></td>
 </tr>
+</tbody>
 </table>
 
-<br/>
-
-### 🛠️ Configuration Steps
+### Configuration Steps
 
 <details>
-<summary><h3>📱 Scion App Configuration</h3></summary>
+<summary><h4>📱 Scion App Configuration</h4></summary>
 
 <br/>
 
@@ -1256,20 +1208,17 @@ class AppConstants {
 </details>
 
 <details>
-<summary><h3>🏰 Sovereign App Configuration</h3></summary>
+<summary><h4>🏰 Sovereign App Configuration</h4></summary>
 
 <br/>
 
 Update API keys in these files:
 
-1. **AI Course Service:**  
-   `Sovereign/lib/services/ai_course_service.dart` (Line 5)
+**1. AI Course Service:** `Sovereign/lib/services/ai_course_service.dart` (Line 5)
 
-2. **Recruitment Logic:**  
-   `Sovereign/lib/services/ai_recruitment_service.dart` (Line 6)
+**2. Recruitment Logic:** `Sovereign/lib/services/ai_recruitment_service.dart` (Line 6)
 
-3. **Company Core:**  
-   `Sovereign/lib/services/company_service.dart` (Line 136)
+**3. Company Core:** `Sovereign/lib/services/company_service.dart` (Line 136)
 
 ```dart
 // Find and replace in each file:
@@ -1282,20 +1231,17 @@ final apiKey = 'gsk_abc123xyz...';
 </details>
 
 <details>
-<summary><h3>🐍 Backend Configuration</h3></summary>
+<summary><h4>🐍 Backend Configuration</h4></summary>
 
 <br/>
 
 Update `GROQ_API_KEY` in the following Python files:
 
-1. **Settings:**  
-   `code_executor_service/code_executor/settings.py` (Line 166)
+**1. Settings:** `code_executor_service/code_executor/settings.py` (Line 166)
 
-2. **Prompt Generator:**  
-   `code_executor_service/execution/prompt_generator_views.py` (Line 22+)
+**2. Prompt Generator:** `code_executor_service/execution/prompt_generator_views.py` (Line 22+)
 
-3. **Web Generator:**  
-   `code_executor_service/execution/web_generator_views.py` (Line 137)
+**3. Web Generator:** `code_executor_service/execution/web_generator_views.py` (Line 137)
 
 ```python
 # ❌ BEFORE
@@ -1307,22 +1253,18 @@ GROQ_API_KEY = 'gsk_abc123xyz...'
 
 </details>
 
-<br/>
-
-### ✅ Verification
+### Verification
 
 After configuring, test the AI features:
 
 ```bash
 # Test curriculum generation
-POST http://localhost:8000/api/v1/courses/generate
-Body: {"topic": "Python Basics"}
+curl -X POST http://localhost:8000/api/v1/courses/generate   -H "Content-Type: application/json"   -d '{"topic": "Python Basics"}'
 
 # Expected: JSON with course structure
 
 # Test chat
-POST http://localhost:8000/api/v1/chat
-Body: {"message": "Explain recursion"}
+curl -X POST http://localhost:8000/api/v1/chat   -H "Content-Type: application/json"   -d '{"message": "Explain recursion"}'
 
 # Expected: AI-generated response
 ```
@@ -1333,123 +1275,213 @@ Body: {"message": "Explain recursion"}
 
 ## 📱 Application Workflows
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Visual+Architecture+Diagrams;See+How+Everything+Connects" alt="Typing SVG" />
-
-</div>
-
-<br/>
-
 ### ⚔️ Scion (Student) Workflows
 
-<details open>
-<summary><h3>📊 View All Scion Architecture Diagrams</h3></summary>
-
-<br/>
-
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <h4>🎯 Dashboard Architecture</h4>
-      <img src="./dashboard_architecture_professional.png" width="100%" alt="Scion Dashboard"/>
-      <sub>Main hub: Courses, Tasks, Leaderboards, Profile</sub>
-    </td>
-    <td align="center" width="50%">
-      <h4>📚 Course Detail Architecture</h4>
-      <img src="./course_detail_architecture_professional.png" width="100%" alt="Course Detail"/>
-      <sub>Curriculum viewer with modules & video player</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h4>🏆 Contest Solve Architecture</h4>
-      <img src="./contest_solve_architecture_professional.png" width="100%" alt="Contest"/>
-      <sub>Live proctoring + code editor + submission</sub>
-    </td>
-    <td align="center" width="50%">
-      <h4>🌐 Web Generator Architecture</h4>
-      <img src="./web_generator_architecture_professional.png" width="100%" alt="Web Generator"/>
-      <sub>Text-to-website with AI + preview + export</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h4>👥 Team Formation Architecture</h4>
-      <img src="./team_formation_architecture_professional.png" width="100%" alt="Teams"/>
-      <sub>Squad creation, chat, project collaboration</sub>
-    </td>
-    <td align="center" width="50%">
-      <h4>👤 Profile Architecture</h4>
-      <img src="./profile_architecture_professional.png" width="100%" alt="Profile"/>
-      <sub>Skills, XP, badges, portfolio showcase</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h4>💼 Job Application Architecture</h4>
-      <img src="./job_application_architecture_professional.png" width="100%" alt="Jobs"/>
-      <sub>Browse, apply, track status, interview scheduling</sub>
-    </td>
-    <td align="center" width="50%">
-      <br/><br/>
-      <h4>📊 Data Flow Summary</h4>
-      User Action → Local State → API Call → Backend Processing → Database Update → Real-time Sync → UI Update
-    </td>
-  </tr>
+<thead>
+<tr>
+<th width="50%">Workflow Diagram</th>
+<th width="50%">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">
+<strong>🎯 Dashboard Architecture</strong><br/>
+<img src="./dashboard_architecture_professional.png" width="100%" alt="Scion Dashboard"/>
+</td>
+<td valign="top">
+<strong>Main Hub Components:</strong><br/>
+• Course catalog with AI recommendations<br/>
+• Daily tasks (Quiz, Code, Brain Game)<br/>
+• Leaderboards (global, local, friends)<br/>
+• Profile summary with XP and badges<br/>
+• Quick access to all features
+</td>
+</tr>
+<tr>
+<td align="center">
+<strong>📚 Course Detail Architecture</strong><br/>
+<img src="./course_detail_architecture_professional.png" width="100%" alt="Course Detail"/>
+</td>
+<td valign="top">
+<strong>Learning Interface:</strong><br/>
+• Structured curriculum viewer<br/>
+• Module-based navigation<br/>
+• Integrated YouTube video player<br/>
+• Progress tracking with checkpoints<br/>
+• Downloadable resources
+</td>
+</tr>
+<tr>
+<td align="center">
+<strong>🏆 Contest Solve Architecture</strong><br/>
+<img src="./contest_solve_architecture_professional.png" width="100%" alt="Contest"/>
+</td>
+<td valign="top">
+<strong>Assessment Environment:</strong><br/>
+• Live proctoring with camera<br/>
+• In-app code editor with syntax highlighting<br/>
+• Real-time submission system<br/>
+• Violation warnings and logging<br/>
+• Timer and question navigation
+</td>
+</tr>
+<tr>
+<td align="center">
+<strong>🌐 Web Generator Architecture</strong><br/>
+<img src="./web_generator_architecture_professional.png" width="100%" alt="Web Generator"/>
+</td>
+<td valign="top">
+<strong>AI-Powered Tool:</strong><br/>
+• Text-to-website conversion<br/>
+• Live preview pane<br/>
+• Code editor with HTML/CSS/JS<br/>
+• One-click download and deploy<br/>
+• Template selection
+</td>
+</tr>
+<tr>
+<td align="center">
+<strong>👥 Team Formation Architecture</strong><br/>
+<img src="./team_formation_architecture_professional.png" width="100%" alt="Teams"/>
+</td>
+<td valign="top">
+<strong>Collaboration System:</strong><br/>
+• Squad creation (2-5 members)<br/>
+• Real-time chat with file sharing<br/>
+• Project board (Kanban-style)<br/>
+• Member skill matching<br/>
+• Team leaderboards
+</td>
+</tr>
+<tr>
+<td align="center">
+<strong>👤 Profile Architecture</strong><br/>
+<img src="./profile_architecture_professional.png" width="100%" alt="Profile"/>
+</td>
+<td valign="top">
+<strong>Portfolio Showcase:</strong><br/>
+• Skills with proficiency levels<br/>
+• XP, level, and ranking display<br/>
+• Achievement badge collection<br/>
+• Completed projects gallery<br/>
+• Shareable portfolio link
+</td>
+</tr>
+<tr>
+<td align="center">
+<strong>💼 Job Application Architecture</strong><br/>
+<img src="./job_application_architecture_professional.png" width="100%" alt="Jobs"/>
+</td>
+<td valign="top">
+<strong>Career Platform:</strong><br/>
+• Job discovery with filters<br/>
+• One-click application system<br/>
+• Application status tracking<br/>
+• Interview scheduling calendar<br/>
+• Direct messaging with recruiters
+</td>
+</tr>
+</tbody>
 </table>
-
-</details>
-
-<br/>
 
 ### 🏰 Sovereign (Company) Workflows
 
-<details open>
-<summary><h3>📊 View All Sovereign Architecture Diagrams</h3></summary>
-
-<br/>
-
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <h4>🏢 Company Dashboard Architecture</h4>
-      <img src="./company_dashboard_architecture_technical.png" width="100%" alt="Company Dashboard"/>
-      <sub>Metrics, active jobs, applicant pipeline</sub>
-    </td>
-    <td align="center" width="50%">
-      <h4>🎯 Candidates Screen Architecture</h4>
-      <img src="./candidates_screen_architecture_technical.png" width="100%" alt="Candidates"/>
-      <sub>Talent radar, filters, skill-based search</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h4>📋 Application Review Architecture</h4>
-      <img src="./applicant_review_architecture_technical.png" width="100%" alt="Review"/>
-      <sub>ATS pipeline, notes, scoring, decisions</sub>
-    </td>
-    <td align="center" width="50%">
-      <h4>🏆 Company Contests Architecture</h4>
-      <img src="./company_contests_architecture_technical.png" width="100%" alt="Contests"/>
-      <sub>Create assessments, set proctoring rules</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h4>👁️ Proctor Screen Architecture</h4>
-      <img src="./proctor_screen_architecture_technical.png" width="100%" alt="Proctor"/>
-      <sub>Live monitoring, violation alerts, recording</sub>
-    </td>
-    <td align="center" width="50%">
-      <h4>📊 Project Management Architecture</h4>
-      <img src="./project_management_architecture_technical.png" width="100%" alt="Projects"/>
-      <sub>Job postings, team assignments, analytics</sub>
-    </td>
-  </tr>
+<thead>
+<tr>
+<th width="50%">Workflow Diagram</th>
+<th width="50%">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">
+<strong>🏢 Company Dashboard Architecture</strong><br/>
+<img src="./company_dashboard_architecture_technical.png" width="100%" alt="Company Dashboard"/>
+</td>
+<td valign="top">
+<strong>Command Center:</strong><br/>
+• Key metrics (applicants, hires, time-to-fill)<br/>
+• Active job postings overview<br/>
+• Applicant pipeline visualization<br/>
+• Recent activity feed<br/>
+• Quick actions panel
+</td>
+</tr>
+<tr>
+<td align="center">
+<strong>🎯 Candidates Screen Architecture</strong><br/>
+<img src="./candidates_screen_architecture_technical.png" width="100%" alt="Candidates"/>
+</td>
+<td valign="top">
+<strong>Talent Radar:</strong><br/>
+• Advanced filters (skills, location, availability)<br/>
+• Skill-based search with proficiency levels<br/>
+• Live leaderboards by category<br/>
+• Bookmark and shortlist features<br/>
+• Bulk actions toolbar
+</td>
+</tr>
+<tr>
+<td align="center">
+<strong>📋 Application Review Architecture</strong><br/>
+<img src="./applicant_review_architecture_technical.png" width="100%" alt="Review"/>
+</td>
+<td valign="top">
+<strong>ATS Pipeline:</strong><br/>
+• Drag-and-drop stage management<br/>
+• Detailed candidate profiles<br/>
+• Collaboration notes and scoring<br/>
+• Assessment results with integrity reports<br/>
+• Decision workflow (approve/reject/schedule)
+</td>
+</tr>
+<tr>
+<td align="center">
+<strong>🏆 Company Contests Architecture</strong><br/>
+<img src="./company_contests_architecture_technical.png" width="100%" alt="Contests"/>
+</td>
+<td valign="top">
+<strong>Assessment Builder:</strong><br/>
+• Custom test creation interface<br/>
+• Question bank integration<br/>
+• Proctoring settings configuration<br/>
+• Time limits and difficulty settings<br/>
+• Preview and publish workflow
+</td>
+</tr>
+<tr>
+<td align="center">
+<strong>👁️ Proctor Screen Architecture</strong><br/>
+<img src="./proctor_screen_architecture_technical.png" width="100%" alt="Proctor"/>
+</td>
+<td valign="top">
+<strong>Live Monitoring:</strong><br/>
+• Real-time video feeds from candidates<br/>
+• Violation alerts and incident log<br/>
+• Video playback for review<br/>
+• Integrity score calculation<br/>
+• Export reports to PDF
+</td>
+</tr>
+<tr>
+<td align="center">
+<strong>📊 Project Management Architecture</strong><br/>
+<img src="./project_management_architecture_technical.png" width="100%" alt="Projects"/>
+</td>
+<td valign="top">
+<strong>Job Management:</strong><br/>
+• Create and edit job postings<br/>
+• Team member assignments<br/>
+• Analytics and performance metrics<br/>
+• Budget tracking<br/>
+• Integration with ATS
+</td>
+</tr>
+</tbody>
 </table>
-
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -1457,37 +1489,9 @@ Body: {"message": "Explain recursion"}
 
 ## 🤝 Contributing
 
-<div align="center">
+We welcome contributions from the developer community! Here's how you can help make SovreignyX better.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6BCF7F&center=true&vCenter=true&width=700&lines=We+Welcome+Your+Contributions!;Help+Us+Build+the+Future+of+EdTech" alt="Typing SVG" />
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/><br/>
-<b>Code</b><br/>
-<sub>Features, bug fixes, optimizations</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/document.png" width="60"/><br/>
-<b>Documentation</b><br/>
-<sub>Improve guides, add examples</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/design.png" width="60"/><br/>
-<b>Design</b><br/>
-<sub>UI/UX enhancements, accessibility</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-### 🚀 How to Contribute
+### How to Contribute
 
 ```bash
 # 1. Fork & Clone
@@ -1510,62 +1514,79 @@ git push origin feature/amazing-feature
 # 6. Open Pull Request on GitHub
 ```
 
-### 📝 Contribution Guidelines
-
-- ✅ Follow existing code style (Dart: `dart format`, Python: PEP 8)
-- ✅ Write meaningful commit messages (`Add:`, `Fix:`, `Update:`, `Refactor:`)
-- ✅ Add comments for complex logic
-- ✅ Update documentation if adding features
-- ✅ Include screenshots for UI changes
-- ✅ Ensure all tests pass before submitting
-- ✅ Be respectful and constructive in discussions
-
-### 🎯 Areas We Need Help
+### Contribution Guidelines
 
 <table>
+<thead>
 <tr>
-<td>🐛 <b>Bug Fixes</b></td>
-<td>Identify and fix issues; improve error handling</td>
+<th width="30%">Guideline</th>
+<th width="70%">Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Code Style</strong></td>
+<td>Follow existing patterns; Dart: <code>dart format</code>, Python: PEP 8</td>
 </tr>
 <tr>
-<td>📚 <b>Documentation</b></td>
-<td>Tutorials, API docs, video guides</td>
+<td><strong>Commit Messages</strong></td>
+<td>Use prefixes: <code>Add:</code>, <code>Fix:</code>, <code>Update:</code>, <code>Refactor:</code>, <code>Docs:</code></td>
 </tr>
 <tr>
-<td>🌐 <b>Internationalization</b></td>
-<td>Translate to Spanish, Hindi, French, etc.</td>
+<td><strong>Documentation</strong></td>
+<td>Add comments for complex logic; Update README if adding features</td>
 </tr>
 <tr>
-<td>♿ <b>Accessibility</b></td>
-<td>Screen reader support, keyboard navigation</td>
+<td><strong>Testing</strong></td>
+<td>Ensure all tests pass before submitting; Add tests for new features</td>
 </tr>
 <tr>
-<td>🎨 <b>UI/UX</b></td>
-<td>Design improvements, dark mode, animations</td>
+<td><strong>Pull Requests</strong></td>
+<td>Provide clear description; Include screenshots for UI changes; Reference related issues</td>
 </tr>
-<tr>
-<td>🔐 <b>Security</b></td>
-<td>Penetration testing, vulnerability reports</td>
-</tr>
-<tr>
-<td>⚡ <b>Performance</b></td>
-<td>Optimization, caching strategies, lazy loading</td>
-</tr>
+</tbody>
 </table>
 
-<br/>
+### Areas We Need Help
 
-### 🏆 Recognition
-
-<div align="center">
-
-All contributors will be featured in our **Hall of Fame** section!
-
-<a href="https://github.com/yourusername/sovereignyx/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yourusername/sovereignyx" />
-</a>
-
-</div>
+<table>
+<thead>
+<tr>
+<th width="20%">Category</th>
+<th width="80%">Opportunities</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>🐛 Bug Fixes</strong></td>
+<td>Identify and fix issues; Improve error handling and edge cases</td>
+</tr>
+<tr>
+<td><strong>📚 Documentation</strong></td>
+<td>Write tutorials; Create API documentation; Record video guides</td>
+</tr>
+<tr>
+<td><strong>🌐 i18n</strong></td>
+<td>Translate to Spanish, Hindi, French, Mandarin, Arabic, Portuguese</td>
+</tr>
+<tr>
+<td><strong>♿ Accessibility</strong></td>
+<td>Screen reader support; Keyboard navigation; High contrast themes</td>
+</tr>
+<tr>
+<td><strong>🎨 UI/UX</strong></td>
+<td>Design improvements; Dark mode enhancements; Animations and transitions</td>
+</tr>
+<tr>
+<td><strong>🔐 Security</strong></td>
+<td>Penetration testing; Vulnerability scanning; Security audits</td>
+</tr>
+<tr>
+<td><strong>⚡ Performance</strong></td>
+<td>Optimization; Caching strategies; Lazy loading; Code splitting</td>
+</tr>
+</tbody>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -1574,10 +1595,6 @@ All contributors will be featured in our **Hall of Fame** section!
 ## 📄 License
 
 <div align="center">
-
-<img src="https://img.icons8.com/fluency/96/000000/certificate.png" width="60"/>
-
-<br/><br/>
 
 This project is licensed under the **MIT License**
 
@@ -1620,118 +1637,106 @@ SOFTWARE.
 <div align="center">
 
 <table>
+<thead>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/github.png" width="50"/><br/>
-<b>GitHub</b><br/>
-<a href="https://github.com/yourusername/sovereignyx/issues">Issues</a> • <a href="https://github.com/yourusername/sovereignyx/discussions">Discussions</a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/email.png" width="50"/><br/>
-<b>Email</b><br/>
-<a href="mailto:support@sovereignyx.dev">support@sovereignyx.dev</a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/discord-logo.png" width="50"/><br/>
-<b>Discord</b><br/>
-<a href="#">Join Community</a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="50"/><br/>
-<b>Twitter</b><br/>
-<a href="https://twitter.com/sovereignyx">@SovreignyX</a>
-</td>
+<th width="25%">Channel</th>
+<th width="75%">Link</th>
 </tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><strong>🐛 Issues</strong></td>
+<td><a href="https://github.com/yourusername/sovereignyx/issues">Report bugs and technical issues</a></td>
+</tr>
+<tr>
+<td align="center"><strong>💡 Discussions</strong></td>
+<td><a href="https://github.com/yourusername/sovereignyx/discussions">Feature requests and Q&A</a></td>
+</tr>
+<tr>
+<td align="center"><strong>📧 Email</strong></td>
+<td><a href="mailto:support@sovereignyx.dev">support@sovereignyx.dev</a></td>
+</tr>
+<tr>
+<td align="center"><strong>🐦 Twitter</strong></td>
+<td><a href="https://twitter.com/sovereignyx">@SovreignyX</a></td>
+</tr>
+<tr>
+<td align="center"><strong>💼 LinkedIn</strong></td>
+<td><a href="https://linkedin.com/company/sovereignyx">SovreignyX Systems</a></td>
+</tr>
+</tbody>
 </table>
-
-<br/>
-
-### 🗺️ Roadmap
 
 </div>
 
+### 🗺️ Roadmap
+
 <table>
+<thead>
 <tr>
 <th width="15%">Quarter</th>
 <th width="85%">Planned Features</th>
 </tr>
+</thead>
+<tbody>
 <tr>
-<td align="center"><b>Q1 2026</b></td>
+<td align="center"><strong>Q1 2026</strong></td>
 <td>
-✅ Mobile app v2.0 with offline mode<br/>
-✅ Integration with LinkedIn Learning & Coursera<br/>
-✅ Advanced analytics dashboard with predictive hiring<br/>
-✅ Multi-language support (Spanish, Hindi, Mandarin)
+• Mobile app v2.0 with offline mode<br/>
+• Integration with LinkedIn Learning & Coursera<br/>
+• Advanced analytics dashboard with predictive hiring<br/>
+• Multi-language support (Spanish, Hindi, Mandarin)
 </td>
 </tr>
 <tr>
-<td align="center"><b>Q2 2026</b></td>
+<td align="center"><strong>Q2 2026</strong></td>
 <td>
-🚧 Blockchain-based credential verification (NFTs)<br/>
-🚧 AR/VR learning modules for immersive education<br/>
-🚧 Enterprise SSO integration (Okta, Azure AD)<br/>
-🚧 API marketplace for third-party integrations
+• Blockchain-based credential verification (NFT certificates)<br/>
+• AR/VR learning modules for immersive education<br/>
+• Enterprise SSO integration (Okta, Azure AD, Google Workspace)<br/>
+• API marketplace for third-party integrations
 </td>
 </tr>
 <tr>
-<td align="center"><b>Q3 2026</b></td>
+<td align="center"><strong>Q3 2026</strong></td>
 <td>
-📋 AI-powered resume builder<br/>
-📋 Video interview platform with sentiment analysis<br/>
-📋 Company culture matching algorithm<br/>
-📋 Mobile app for iOS (currently Android-only)
+• AI-powered resume builder with ATS optimization<br/>
+• Video interview platform with sentiment analysis<br/>
+• Company culture matching algorithm<br/>
+• iOS mobile app (currently Android-only)
 </td>
 </tr>
 <tr>
-<td align="center"><b>Q4 2026</b></td>
+<td align="center"><strong>Q4 2026</strong></td>
 <td>
-📋 Marketplace for freelance projects<br/>
-📋 Mentorship matching system<br/>
-📋 Blockchain salary escrow service<br/>
-📋 AI career counselor chatbot
+• Freelance project marketplace<br/>
+• AI-powered mentorship matching system<br/>
+• Blockchain salary escrow service<br/>
+• AI career counselor chatbot with voice interface
 </td>
 </tr>
+</tbody>
 </table>
 
 <br/>
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-
-<br/><br/>
-
-### ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/sovereignyx&type=Date)](https://star-history.com/#yourusername/sovereignyx&Date)
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
----
-
-<br/>
-
 <table>
 <tr>
 <td align="center" width="33%">
 <a href="https://github.com/yourusername/sovereignyx">
-<img src="https://img.shields.io/badge/⭐-Star_this_repo-yellow?style=for-the-badge&logo=github" height="40"/>
+<img src="https://custom-icon-badges.demolab.com/badge/-Star%20this%20repo-yellow?style=for-the-badge&logo=star&logoColor=white" height="40"/>
 </a>
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/yourusername/sovereignyx/issues">
-<img src="https://img.shields.io/badge/🐛-Report_Bug-red?style=for-the-badge&logo=github" height="40"/>
+<img src="https://custom-icon-badges.demolab.com/badge/-Report%20Bug-red?style=for-the-badge&logo=bug&logoColor=white" height="40"/>
 </a>
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/yourusername/sovereignyx/fork">
-<img src="https://img.shields.io/badge/🔱-Fork_Project-blue?style=for-the-badge&logo=github" height="40"/>
+<img src="https://custom-icon-badges.demolab.com/badge/-Fork%20Project-blue?style=for-the-badge&logo=repo-forked&logoColor=white" height="40"/>
 </a>
 </td>
 </tr>
