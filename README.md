@@ -85,9 +85,9 @@
 
 ---
 ## ⚠️ IMPORTANT NOTICE
-<h3>Use only the demo credentials. Creating a new account is not allowed.</h3><br><br>
+<h3>Use only the demo credentials. Creating a new account is not allowed.</h3>
 <h3>Downloading the APK is easy and gives you the best user experience. Get the latest version to enjoy all the app’s features smoothly.</h3>
----
+
 
 
 
