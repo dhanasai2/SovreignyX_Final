@@ -982,42 +982,43 @@ CI/CD automation
 ```bash
 SovreignyX/
 │
-├── 🌑 Scion/                         # Student Application
+├── 🌑 Scion/                                    # Student Application
 │   ├── lib/
-│   │   ├── screens/                  # UI Screens
+│   │   ├── screens/                             # UI Screens
 │   │   │   ├── dashboard_screen.dart
 │   │   │   ├── course_detail_screen.dart
 │   │   │   └── contest_screen.dart
-│   │   ├── services/                 # Business Logic
+│   │   ├── services/                            # Business Logic
 │   │   │   ├── auth_service.dart
 │   │   │   ├── ai_service.dart
 │   │   │   └── team_service.dart
-│   │   ├── models/                   # Data Models
+│   │   ├── models/                              # Data Models
 │   │   └── utils/
-│   │       ├── constants.dart        # 🔑 API Keys Here
-│   │       └── config_service.dart   # Backend URL
+│   │       ├── constants.dart                   # 🔑 API Keys Here
+│   │       └── config_service.dart              # Backend URL
 │   └── pubspec.yaml
 │
-├── 🌕 Sovereign/                     # Company Application
+├── 🌕 Sovereign/                                # Company Application
 │   ├── lib/
 │   │   ├── screens/
 │   │   │   ├── company_dashboard.dart
 │   │   │   ├── talent_radar_screen.dart
 │   │   │   └── proctor_screen.dart
 │   │   ├── services/
-│   │   │   ├── ai_recruitment_service.dart  # 🔑 API Keys
-│   │   │   └── company_service.dart         # 🔑 API Keys
+│   │   │   ├── ai_recruitment_service.dart      # 🔑 API Keys
+│   │   │   └── company_service.dart             # 🔑 API Keys
 │   │   └── models/
 │   └── pubspec.yaml
 │
-└── 🪐 backend/                       # Python/Django Backend
+└── 🪐 backend/                                  # Python/Django Backend
     ├── code_executor_service/
-    │   ├── settings.py               # 🔑 API Keys (Line 166)
+    │   ├── settings.py                          # 🔑 API Keys (Line 166)
     │   ├── execution/
-    │   │   ├── prompt_generator_views.py  # 🔑 API Keys (Line 22)
-    │   │   └── web_generator_views.py     # 🔑 API Keys (Line 137)
+    │   │   ├── prompt_generator_views.py        # 🔑 API Keys (Line 22)
+    │   │   └── web_generator_views.py           # 🔑 API Keys (Line 137)
     │   └── manage.py
     └── requirements.txt
+
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
