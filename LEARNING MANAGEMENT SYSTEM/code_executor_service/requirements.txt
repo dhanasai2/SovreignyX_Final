@@ -1,2 +1,0 @@
-Django>=5.2.9
-djangorestframework>=3.16.1
