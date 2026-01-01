@@ -371,7 +371,7 @@ Download the APK for the best experience!
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7B801&center=true&vCenter=true&width=600&lines=Dual-Node+Architecture;Student+%2B+Company+Ecosystems" alt="Typing SVG" />
 
-</div>
+
 
 <br/>
 
@@ -380,6 +380,7 @@ Download the APK for the best experience!
 <summary>
 <h2>⚔️ Scion: The Knowledge Forge</h2>
 </summary>
+</div>
 
 <div align="center">
 
@@ -515,9 +516,6 @@ Output: ✨ Full HTML/CSS/JS code with responsive design
 - **📧 Email Integration**: Receive interview invites and updates directly
 - **💬 Direct Messaging**: Chat with recruiters without leaving the app
 - **✅ Skills Verification**: Every completed project adds to your credibility score
-
-<div align="center">
-
 **🎯 Access Features:** Click the **three-dot menu (⋮)** in the Scion dashboard
 
 </div>
