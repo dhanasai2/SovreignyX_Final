@@ -76,9 +76,11 @@
 <h3>Scion Webapp link: https://scionn.web.app</h3>
 <h3>Sovereign Webapp link: https://sovereignsystem.web.app</h3>
 
-<span style="color: #4facfe;">🚨 **IMPORTANT NOTICE**  
-Use **only the demo credentials**.  
-❌ Creating a new account is not allowed.</span>
+---
+## ⚠️ IMPORTANT NOTICE
+**Use only the demo credentials. Creating a new account is not allowed.**
+---
+
 
 
 
