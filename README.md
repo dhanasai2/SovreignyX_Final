@@ -75,9 +75,10 @@
 <h2>Youtube Demo Url: https://youtu.be/R-aX6DdpwdA</h2>
 <h3>Scion Webapp link: https://scionn.web.app</h3>
 <h3>Sovereign Webapp link: https://sovereignsystem.web.app</h3>
-> 🚨 **IMPORTANT NOTICE**  
-> Use **only the demo credentials**.  
-> ❌ Creating a new account is not allowed.
+
+<span style="color: #4facfe;">🚨 **IMPORTANT NOTICE**  
+Use **only the demo credentials**.  
+❌ Creating a new account is not allowed.</span>
 
 
 
