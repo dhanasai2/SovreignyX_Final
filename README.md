@@ -904,7 +904,7 @@ flowchart LR
 
 ### Detailed Technology Matrix
 
-</div>
+
 
 <table>
 <tr>
@@ -969,6 +969,7 @@ CI/CD automation
 </td>
 </tr>
 </table>
+</div>
 
 <br/>
 
