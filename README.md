@@ -167,7 +167,7 @@
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#4facfe','primaryTextColor':'#fff','primaryBorderColor':'#7C0200','lineColor':'#F8B229','secondaryColor':'#006100','tertiaryColor':'#F8B229'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#4facfe','primaryTextColor':'white','primaryBorderColor':'#7C0200','lineColor':'#F8B229','secondaryColor':'#006100','tertiaryColor':'#F8B229'}}}%%
 mindmap
   root((SovreignyX))
     AI-First Design
