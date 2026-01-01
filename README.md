@@ -74,7 +74,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-</div>
+
 
 <!-- NAVIGATION -->
 <details open>
@@ -113,6 +113,7 @@
 </table>
 
 </details>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -518,7 +519,7 @@ Output: ✨ Full HTML/CSS/JS code with responsive design
 - **✅ Skills Verification**: Every completed project adds to your credibility score
 **🎯 Access Features:** Click the **three-dot menu (⋮)** in the Scion dashboard
 
-</div>
+
 
 </details>
 
@@ -529,6 +530,7 @@ Output: ✨ Full HTML/CSS/JS code with responsive design
 <summary>
 <h2>🏰 Sovereign: Strategic Command Center</h2>
 </summary>
+</div>
 
 <div align="center">
 
