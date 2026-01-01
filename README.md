@@ -74,7 +74,7 @@
 ---
 ---
 <h2>Youtube Demo Url: https://youtu.be/R-aX6DdpwdA</h2>
-<a href="https://drive.google.com/file/d/1lu76gNEQ0o3YdeuNi7Sjowynvs32_2Rp/view?usp=drive_link"><h3>Download Sovereign App</h3></a>
+<a href="https://drive.google.com/file/d/1lu76gNEQ0o3YdeuNi7Sjowynvs32_2Rp/view?usp=drive_link">Download Sovereign App</a>
 <h3>Scion Webapp link: https://scionn.web.app</h3>
 <h3>Sovereign Webapp link: https://sovereignsystem.web.app</h3>
 
