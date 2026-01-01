@@ -992,32 +992,31 @@ SovreignyX/
 │   │   │   ├── ai_service.dart
 │   │   │   └── team_service.dart
 │   │   ├── models/                              # Data Models
-│   │   └── utils/
-│   │       ├── constants.dart                   # 🔑 API Keys Here
-│   │       └── config_service.dart              # Backend URL
-│   └── pubspec.yaml
+│   │   │   └── utils/
+│   │   ├── constants.dart                       # 🔑 API Keys Here
+│   │   └── config_service.dart                  # Backend URL
+│   │       └── pubspec.yaml
 │
-├── 🌕 Sovereign/                                # Company Application
+├── 🟠 Sovereign/                                # Company Application
 │   ├── lib/
 │   │   ├── screens/
 │   │   │   ├── company_dashboard.dart
 │   │   │   ├── talent_radar_screen.dart
 │   │   │   └── proctor_screen.dart
-│   │   ├── services/
-│   │   │   ├── ai_recruitment_service.dart      # 🔑 API Keys
-│   │   │   └── company_service.dart             # 🔑 API Keys
-│   │   └── models/
-│   └── pubspec.yaml
+│   │   └── services/
+│   │       ├── ai_recruitment_service.dart      # 🔑 API Keys
+│   │       ├── company_service.dart             # 🔑 API Keys
+│   │       └── models/
+│   │           └── pubspec.yaml
 │
-└── 🪐 backend/                                  # Python/Django Backend
+└── 🔧 backend/                                  # Python/Django Backend
     ├── code_executor_service/
     │   ├── settings.py                          # 🔑 API Keys (Line 166)
     │   ├── execution/
     │   │   ├── prompt_generator_views.py        # 🔑 API Keys (Line 22)
-    │   │   └── web_generator_views.py           # 🔑 API Keys (Line 137)
-    │   └── manage.py
-    └── requirements.txt
-
+    │   │   ├── web_generator_views.py           # 🔑 API Keys (Line 137)
+    │   │   └── manage.py
+    │   └── requirements.txt
 ```
 
 
