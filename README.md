@@ -47,7 +47,7 @@
 </div>
 
 <br />
-<a href="app-release.apk">Download app</a>
+<a href="app-release.apk" download>Download app</a>
 
 <!-- COMMAND DECK (High Contrast) -->
 <h3 style="color: #4facfe;">🔻 MISSION CONTROL 🔻</h3>
