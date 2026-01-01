@@ -77,8 +77,6 @@
 </div>
 
 <!-- NAVIGATION -->
-<div align="center">
-
 <details open>
 <summary><h2>🗺️ Navigation Hub</h2></summary>
 
@@ -169,7 +167,7 @@
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'fontSize':'16px'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#4facfe','primaryTextColor':'#fff','primaryBorderColor':'#7C0200','lineColor':'#F8B229','secondaryColor':'#006100','tertiaryColor':'#fff'}}}%%
 mindmap
   root((SovreignyX))
     AI-First Design
@@ -188,11 +186,6 @@ mindmap
       XP & Streaks
       Leaderboards
       Achievements
-
-%%{init: {'themeCSS': '.mindmap-node { color: white !important; } .mindmap-node text { fill: white !important; }'}}%%
-
-
-
 ```
 
 </div>
@@ -975,8 +968,6 @@ CI/CD automation
 </tr>
 </table>
 
-
-
 <br/>
 
 ### 🗂️ Project Structure
@@ -1021,8 +1012,6 @@ SovreignyX/
     │   └── manage.py
     └── requirements.txt
 ```
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
