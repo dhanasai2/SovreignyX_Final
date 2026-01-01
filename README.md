@@ -1628,7 +1628,7 @@ SOFTWARE.
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/github.png" width="50"/><br/>
 <b>GitHub</b><br/>
-<a href="https://github.com/dhanasai2/sovereignyx/issues">Issues</a> • <a href="https://github.com/dhanasai2/sovereignyx/discussions">Discussions</a>
+<a href="https://github.com/dhanasai2/SovreignyX_Final/issues">Issues</a> • <a href="https://github.com/dhanasai2/SovreignyX_Final/discussions">Discussions</a>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/email.png" width="50"/><br/>
@@ -1707,17 +1707,17 @@ SOFTWARE.
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://github.com/dhanasai2/sovereignyx">
+<a href="https://github.com/dhanasai2/SovreignyX_Final">
 <img src="https://img.shields.io/badge/⭐-Star_this_repo-yellow?style=for-the-badge&logo=github" height="40"/>
 </a>
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/dhanasai2/sovereignyx/issues">
+<a href="https://github.com/dhanasai2/SovreignyX_Final/issues">
 <img src="https://img.shields.io/badge/🐛-Report_Bug-red?style=for-the-badge&logo=github" height="40"/>
 </a>
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/dhanasai2/sovereignyx/fork">
+<a href="https://github.com/dhanasai2/SovreignyX_Final/fork">
 <img src="https://img.shields.io/badge/🔱-Fork_Project-blue?style=for-the-badge&logo=github" height="40"/>
 </a>
 </td>
