@@ -167,7 +167,21 @@
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#4facfe','primaryTextColor':'#fff','primaryBorderColor':'#7C0200','lineColor':'#F8B229','secondaryColor':'#006100','tertiaryColor':'#fff'}}}%%
+%%{init: {
+  'theme':'base',
+  'themeVariables': {
+    'primaryColor':'#4facfe',
+    'primaryTextColor':'#fff',
+    'primaryBorderColor':'#4facfe',
+    'lineColor':'#F8B229',
+    'secondaryColor':'#8b5cf6',
+    'secondaryTextColor':'#fff',
+    'tertiaryColor':'#1e293b',
+    'tertiaryTextColor':'#fff',
+    'noteBkgColor':'#1e293b',
+    'noteTextColor':'#fff'
+  }
+}}%%
 mindmap
   root((SovreignyX))
     AI-First Design
@@ -186,6 +200,7 @@ mindmap
       XP & Streaks
       Leaderboards
       Achievements
+
 ```
 
 </div>
