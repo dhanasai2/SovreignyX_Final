@@ -507,6 +507,5 @@ GROQ_API_KEY = 'gsk_abc123xyz...'
 **Architected by SovreignyX Systems**  
 *Est. 2025 | Open Source Protocol*
 
-[🐛 Report Issue](issues) · [💡 Request Feature](pulls)
 
 
