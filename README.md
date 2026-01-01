@@ -74,7 +74,7 @@
 ---
 ---
 <h2>Youtube Demo Url: https://youtu.be/R-aX6DdpwdA</h2>
-<h3>Download Sovereign App:</h3><a href="https://drive.google.com/file/d/1lu76gNEQ0o3YdeuNi7Sjowynvs32_2Rp/view?usp=drive_link">Click here to download</a>
+<h3>Download Sovereign App:<a href="https://drive.google.com/file/d/1lu76gNEQ0o3YdeuNi7Sjowynvs32_2Rp/view?usp=drive_link">Click here to download</a></h3>
 
 
 
