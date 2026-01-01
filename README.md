@@ -1628,12 +1628,12 @@ SOFTWARE.
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/github.png" width="50"/><br/>
 <b>GitHub</b><br/>
-<a href="https://github.com/yourusername/sovereignyx/issues">Issues</a> • <a href="https://github.com/yourusername/sovereignyx/discussions">Discussions</a>
+<a href="https://github.com/dhanasai2/sovereignyx/issues">Issues</a> • <a href="https://github.com/dhanasai2/sovereignyx/discussions">Discussions</a>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/email.png" width="50"/><br/>
 <b>Email</b><br/>
-<a href="mailto:support@sovereignyx.dev">support@sovereignyx.dev</a>
+<a href="chidwilash123@gmail.com">support@sovereignyx.dev</a>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/discord-logo.png" width="50"/><br/>
@@ -1697,25 +1697,8 @@ SOFTWARE.
 </tr>
 </table>
 
-<br/>
 
-<div align="center">
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-
-<br/><br/>
-
-### ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/sovereignyx&type=Date)](https://star-history.com/#yourusername/sovereignyx&Date)
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
 
 ---
 
@@ -1724,17 +1707,17 @@ SOFTWARE.
 <table>
 <tr>
 <td align="center" width="33%">
-<a href="https://github.com/yourusername/sovereignyx">
+<a href="https://github.com/dhanasai2/sovereignyx">
 <img src="https://img.shields.io/badge/⭐-Star_this_repo-yellow?style=for-the-badge&logo=github" height="40"/>
 </a>
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/yourusername/sovereignyx/issues">
+<a href="https://github.com/dhanasai2/sovereignyx/issues">
 <img src="https://img.shields.io/badge/🐛-Report_Bug-red?style=for-the-badge&logo=github" height="40"/>
 </a>
 </td>
 <td align="center" width="33%">
-<a href="https://github.com/yourusername/sovereignyx/fork">
+<a href="https://github.com/dhanasai2/sovereignyx/fork">
 <img src="https://img.shields.io/badge/🔱-Fork_Project-blue?style=for-the-badge&logo=github" height="40"/>
 </a>
 </td>
@@ -1748,7 +1731,7 @@ SOFTWARE.
 
 <br/>
 
-Made with ❤️ by developers, for developers
+Made with ❤️ by Kaizen, for developers
 
 <br/>
 
