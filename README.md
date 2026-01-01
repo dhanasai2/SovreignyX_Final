@@ -168,18 +168,28 @@
 
 ```mermaid
 %%{init: {
-  'theme':'base',
+  'theme':'dark',
   'themeVariables': {
-    'primaryColor':'#4facfe',
-    'primaryTextColor':'#fff',
-    'primaryBorderColor':'#4facfe',
-    'lineColor':'#F8B229',
-    'secondaryColor':'#8b5cf6',
-    'secondaryTextColor':'#fff',
-    'tertiaryColor':'#1e293b',
-    'tertiaryTextColor':'#fff',
-    'noteBkgColor':'#1e293b',
-    'noteTextColor':'#fff'
+    'darkMode': true,
+    'background': '#0f172a',
+    'primaryColor': '#4facfe',
+    'primaryTextColor': '#ffffff',
+    'primaryBorderColor': '#4facfe',
+    'secondaryColor': '#8b5cf6',
+    'secondaryTextColor': '#ffffff',
+    'secondaryBorderColor': '#8b5cf6',
+    'tertiaryColor': '#0ea5e9',
+    'tertiaryTextColor': '#ffffff',
+    'tertiaryBorderColor': '#0ea5e9',
+    'lineColor': '#F8B229',
+    'textColor': '#ffffff',
+    'mainBkg': '#1e293b',
+    'nodeBorder': '#4facfe',
+    'clusterBkg': '#1e293b',
+    'clusterBorder': '#4facfe',
+    'titleColor': '#ffffff',
+    'edgeLabelBackground': '#1e293b',
+    'nodeTextColor': '#ffffff'
   }
 }}%%
 mindmap
@@ -200,6 +210,7 @@ mindmap
       XP & Streaks
       Leaderboards
       Achievements
+
 
 ```
 
