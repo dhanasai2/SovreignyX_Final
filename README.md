@@ -117,6 +117,8 @@ It is a **Cognitive Architecture** where learning directly translates to profess
 ### 💎 Scion Feature Matrix
 *   **🤖 AI Neural Chat**: Context-aware academic assistant powered by Llama-3.
 *   **🕸️ Web Page Generator**: Generate functional HTML/CSS websites from a single prompt.
+*   **🧑‍💻 Portfolio Page Generator**: Generates a dynamic portfolio webpage by collecting and organizing all necessary user details.
+*   **⚡ Live Contests**:Ensures high-security live contests by leveraging camera access for real-time detection of abnormal activities.
 *   **📚 Dynamic Course Synthesis**: AI generates complete curriculums (Curriculum -> Modules -> Lessons -> YouTube Streams).
 *   **🧠 Daily Neuro-Tasks**:
     *   **Quiz**: Daily knowledge checks.
