@@ -73,7 +73,9 @@
 ---
 ---
 <h2>Youtube Demo Url: https://youtu.be/R-aX6DdpwdA</h2>
-
+<h2>Scion webapp link:https://scionn.web.app</h2>
+<h2>Sovereign webapp link:https://sovereignsystem.web.app</h2>
+<style "color:red"><h3>We are requested to try demo Credentials only</h3></style>
 ### 🔐 Quick-Access Test Credentials
 Use these pre-configured accounts to instantly access the full feature set without onboarding.
 
